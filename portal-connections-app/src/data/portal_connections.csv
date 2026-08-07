@@ -1,0 +1,1201 @@
+connection_id,user_id,country,country_name,city,timezone,device,internet_speed_mbps,connected_at,related_country
+C00001,U1272,ES,Spain,Madrid,Europe/Madrid,mobile,35.7,2026-01-05T00:57:49.224Z,IT
+C00002,U1041,IN,India,Mumbai,Asia/Kolkata,mobile,59.9,2026-04-03T01:17:33.830Z,JP
+C00003,U1770,FR,France,Paris,Europe/Paris,desktop,101,2026-04-16T13:28:23.816Z,DE
+C00004,U1562,AU,Australia,Sydney,Australia/Sydney,desktop,70.8,2026-03-05T10:05:38.874Z,IN
+C00005,U1358,PL,Poland,Warsaw,Europe/Warsaw,desktop,77.7,2026-04-01T04:32:07.485Z,KR
+C00006,U1614,US,United States,New York,America/New_York,mobile,58.3,2026-03-26T21:39:02.184Z,CA
+C00007,U1787,GB,United Kingdom,London,Europe/London,desktop,76.9,2026-01-27T22:40:38.101Z,ES
+C00008,U1406,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,100.2,2026-04-25T12:15:52.850Z,US
+C00009,U1428,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,92.6,2026-02-18T11:44:23.847Z,US
+C00010,U1690,US,United States,New York,America/New_York,desktop,95.2,2026-02-03T11:18:20.771Z,BR
+C00011,U1565,SE,Sweden,Stockholm,Europe/Stockholm,desktop,99.8,2026-01-13T07:40:13.968Z,MX
+C00012,U1224,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,68.8,2026-01-01T10:38:36.564Z,ZA
+C00013,U1266,IN,India,Mumbai,Asia/Kolkata,tablet,43.8,2026-03-20T18:36:16.667Z,KR
+C00014,U1225,JP,Japan,Tokyo,Asia/Tokyo,desktop,91.6,2026-03-26T20:22:27.206Z,KR
+C00015,U1471,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,74.5,2026-02-24T00:55:01.119Z,FR
+C00016,U1377,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,69.4,2026-03-25T05:53:30.873Z,ZA
+C00017,U1550,IN,India,Mumbai,Asia/Kolkata,mobile,40.9,2026-02-12T14:04:44.322Z,KR
+C00018,U1363,US,United States,New York,America/New_York,desktop,84.1,2026-01-06T17:45:13.885Z,MX
+C00019,U1291,JP,Japan,Tokyo,Asia/Tokyo,desktop,109.1,2026-04-15T03:30:12.213Z,AU
+C00020,U1514,DE,Germany,Berlin,Europe/Berlin,desktop,111.9,2026-01-19T18:32:20.238Z,IT
+C00021,U1255,GB,United Kingdom,London,Europe/London,desktop,100.7,2026-04-08T10:41:34.036Z,PL
+C00022,U1453,US,United States,New York,America/New_York,desktop,85.5,2026-01-31T20:42:41.649Z,CA
+C00023,U1216,KR,South Korea,Seoul,Asia/Seoul,desktop,111.2,2026-04-05T11:48:21.384Z,IN
+C00024,U1693,FR,France,Paris,Europe/Paris,mobile,39.5,2026-01-09T23:41:13.613Z,NL
+C00025,U1501,IT,Italy,Rome,Europe/Rome,desktop,78.4,2026-01-06T01:17:02.397Z,DE
+C00026,U1032,GB,United Kingdom,London,Europe/London,mobile,64.7,2026-02-15T19:41:16.414Z,ES
+C00027,U1622,FR,France,Paris,Europe/Paris,desktop,89.2,2026-01-12T02:14:00.463Z,SE
+C00028,U1786,FR,France,Paris,Europe/Paris,desktop,72.3,2026-03-19T11:21:20.006Z,JP
+C00029,U1552,CA,Canada,Toronto,America/Toronto,desktop,69.6,2026-03-09T13:39:52.602Z,BR
+C00030,U1103,KR,South Korea,Seoul,Asia/Seoul,desktop,91.8,2026-02-01T01:04:01.001Z,SG
+C00031,U1652,IN,India,Mumbai,Asia/Kolkata,desktop,101.6,2026-03-08T05:55:41.831Z,AU
+C00032,U1197,IN,India,Mumbai,Asia/Kolkata,tablet,61.5,2026-01-30T05:51:18.728Z,AU
+C00033,U1396,IN,India,Mumbai,Asia/Kolkata,desktop,66.3,2026-02-14T16:53:47.957Z,JP
+C00034,U1644,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,54.8,2026-01-22T02:49:22.218Z,CA
+C00035,U1665,ES,Spain,Madrid,Europe/Madrid,tablet,68.9,2026-04-08T08:47:36.127Z,GB
+C00036,U1299,FR,France,Paris,Europe/Paris,mobile,45.3,2026-02-07T22:25:41.356Z,IT
+C00037,U1358,US,United States,New York,America/New_York,desktop,86.3,2026-04-26T23:05:20.308Z,CA
+C00038,U1146,IN,India,Mumbai,Asia/Kolkata,mobile,37.4,2026-03-13T22:52:37.180Z,MX
+C00039,U1089,CA,Canada,Toronto,America/Toronto,desktop,99.5,2026-02-06T15:41:41.578Z,ES
+C00040,U1094,US,United States,New York,America/New_York,desktop,96.7,2026-03-10T00:00:52.294Z,ZA
+C00041,U1215,CA,Canada,Toronto,America/Toronto,mobile,49.4,2026-03-08T07:39:17.184Z,BR
+C00042,U1776,IN,India,Mumbai,Asia/Kolkata,mobile,49.7,2026-03-01T01:25:18.024Z,ZA
+C00043,U1763,GB,United Kingdom,London,Europe/London,mobile,30.5,2026-02-18T18:24:25.444Z,DE
+C00044,U1509,IN,India,Mumbai,Asia/Kolkata,desktop,85.7,2026-04-11T17:48:08.208Z,JP
+C00045,U1175,US,United States,New York,America/New_York,mobile,48.3,2026-01-19T09:07:29.260Z,CA
+C00046,U1326,IT,Italy,Rome,Europe/Rome,desktop,86.4,2026-02-17T14:56:21.208Z,NL
+C00047,U1676,GB,United Kingdom,London,Europe/London,desktop,81.7,2026-03-25T02:50:20.784Z,ES
+C00048,U1345,FR,France,Paris,Europe/Paris,mobile,42.5,2026-04-04T03:38:06.003Z,DE
+C00049,U1165,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,97.7,2026-03-31T22:20:22.296Z,US
+C00050,U1387,US,United States,New York,America/New_York,mobile,49.9,2026-03-21T14:07:17.911Z,AU
+C00051,U1785,MX,Mexico,Mexico City,America/Mexico_City,desktop,88.2,2026-04-23T05:40:39.084Z,US
+C00052,U1079,US,United States,New York,America/New_York,desktop,78.5,2026-04-12T07:41:56.547Z,CA
+C00053,U1451,IN,India,Mumbai,Asia/Kolkata,desktop,71.8,2026-01-14T03:33:05.522Z,JP
+C00054,U1150,IN,India,Mumbai,Asia/Kolkata,tablet,68.3,2026-01-30T19:31:38.726Z,AU
+C00055,U1702,MX,Mexico,Mexico City,America/Mexico_City,mobile,27.1,2026-02-12T02:11:04.232Z,CA
+C00056,U1034,MX,Mexico,Mexico City,America/Mexico_City,mobile,34.7,2026-03-11T21:36:25.029Z,US
+C00057,U1112,US,United States,New York,America/New_York,mobile,29.6,2026-04-24T23:32:30.836Z,CA
+C00058,U1661,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,49.9,2026-03-03T18:20:51.698Z,MX
+C00059,U1041,PL,Poland,Warsaw,Europe/Warsaw,mobile,45.4,2026-03-08T12:40:25.312Z,SG
+C00060,U1288,IT,Italy,Rome,Europe/Rome,mobile,37,2026-04-23T15:46:58.436Z,DE
+C00061,U1746,US,United States,New York,America/New_York,mobile,56.6,2026-04-06T04:34:41.605Z,CA
+C00062,U1273,JP,Japan,Tokyo,Asia/Tokyo,mobile,82.3,2026-01-01T12:56:37.085Z,IN
+C00063,U1050,KR,South Korea,Seoul,Asia/Seoul,desktop,110.9,2026-04-02T01:04:32.992Z,IN
+C00064,U1774,DE,Germany,Berlin,Europe/Berlin,mobile,76.8,2026-02-28T18:26:18.334Z,NL
+C00065,U1030,US,United States,New York,America/New_York,mobile,51.3,2026-04-20T13:03:21.765Z,MX
+C00066,U1432,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,65.7,2026-01-14T23:18:49.121Z,PL
+C00067,U1276,IN,India,Mumbai,Asia/Kolkata,mobile,55.3,2026-04-07T03:38:07.818Z,KR
+C00068,U1320,JP,Japan,Tokyo,Asia/Tokyo,desktop,100.7,2026-04-08T00:44:22.174Z,KR
+C00069,U1667,SG,Singapore,Singapore,Asia/Singapore,desktop,113.5,2026-03-22T10:30:30.356Z,JP
+C00070,U1613,FR,France,Paris,Europe/Paris,desktop,99.1,2026-01-28T15:14:39.770Z,DE
+C00071,U1263,AU,Australia,Sydney,Australia/Sydney,desktop,78.6,2026-04-05T02:08:39.576Z,KR
+C00072,U1591,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,26.2,2026-03-26T02:36:44.780Z,SE
+C00073,U1417,DE,Germany,Berlin,Europe/Berlin,desktop,103.7,2026-01-29T11:41:40.901Z,ES
+C00074,U1744,ES,Spain,Madrid,Europe/Madrid,desktop,83.9,2026-02-11T08:54:00.061Z,IT
+C00075,U1545,US,United States,New York,America/New_York,desktop,65.1,2026-01-09T17:21:57.617Z,MX
+C00076,U1375,IN,India,Mumbai,Asia/Kolkata,mobile,53,2026-04-04T15:39:01.342Z,SG
+C00077,U1501,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,92.4,2026-03-14T22:48:25.946Z,US
+C00078,U1004,US,United States,New York,America/New_York,desktop,68.7,2026-02-01T07:23:06.685Z,MX
+C00079,U1786,JP,Japan,Tokyo,Asia/Tokyo,tablet,84.2,2026-01-27T07:01:52.531Z,KR
+C00080,U1494,US,United States,New York,America/New_York,mobile,39.6,2026-02-08T03:59:58.494Z,BR
+C00081,U1255,DE,Germany,Berlin,Europe/Berlin,mobile,81.2,2026-03-14T20:34:48.073Z,NL
+C00082,U1564,AU,Australia,Sydney,Australia/Sydney,desktop,82.2,2026-02-18T02:12:25.104Z,IN
+C00083,U1641,IN,India,Mumbai,Asia/Kolkata,mobile,46.5,2026-01-11T02:17:30.391Z,AU
+C00084,U1554,DE,Germany,Berlin,Europe/Berlin,desktop,124.6,2026-04-14T04:19:49.107Z,NL
+C00085,U1301,JP,Japan,Tokyo,Asia/Tokyo,desktop,113.2,2026-04-20T15:30:01.618Z,IN
+C00086,U1355,PL,Poland,Warsaw,Europe/Warsaw,desktop,73.9,2026-03-10T15:46:13.704Z,GB
+C00087,U1734,IN,India,Mumbai,Asia/Kolkata,desktop,95.8,2026-02-12T10:12:45.695Z,AU
+C00088,U1510,IN,India,Mumbai,Asia/Kolkata,tablet,40.4,2026-04-25T06:42:40.209Z,JP
+C00089,U1687,SE,Sweden,Stockholm,Europe/Stockholm,desktop,104.6,2026-01-27T20:26:18.540Z,ZA
+C00090,U1746,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,97.6,2026-03-27T17:37:10.655Z,IN
+C00091,U1087,GB,United Kingdom,London,Europe/London,tablet,68.4,2026-03-31T17:59:37.595Z,DE
+C00092,U1632,US,United States,New York,America/New_York,desktop,93.9,2026-04-25T21:40:19.721Z,MX
+C00093,U1270,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,74,2026-01-30T01:17:42.069Z,ZA
+C00094,U1351,US,United States,New York,America/New_York,desktop,90,2026-03-16T16:32:44.285Z,CA
+C00095,U1301,KR,South Korea,Seoul,Asia/Seoul,desktop,94.7,2026-02-17T00:09:17.454Z,IN
+C00096,U1220,PL,Poland,Warsaw,Europe/Warsaw,desktop,90,2026-02-09T23:00:57.540Z,GB
+C00097,U1145,ES,Spain,Madrid,Europe/Madrid,desktop,72.6,2026-02-24T03:47:17.103Z,DE
+C00098,U1469,IN,India,Mumbai,Asia/Kolkata,desktop,99.3,2026-04-18T23:54:28.193Z,AU
+C00099,U1395,US,United States,New York,America/New_York,desktop,70.5,2026-01-03T21:29:31.398Z,BR
+C00100,U1047,MX,Mexico,Mexico City,America/Mexico_City,desktop,69.1,2026-04-19T16:22:02.912Z,IN
+C00101,U1435,AU,Australia,Sydney,Australia/Sydney,mobile,41.9,2026-04-27T05:13:51.276Z,IN
+C00102,U1075,FR,France,Paris,Europe/Paris,mobile,53.3,2026-03-31T05:31:18.420Z,US
+C00103,U1738,DE,Germany,Berlin,Europe/Berlin,desktop,95.4,2026-03-11T08:39:09.525Z,NL
+C00104,U1342,US,United States,New York,America/New_York,tablet,55.5,2026-01-14T11:04:47.807Z,MX
+C00105,U1776,FR,France,Paris,Europe/Paris,tablet,74.1,2026-03-07T04:27:25.499Z,DE
+C00106,U1152,US,United States,New York,America/New_York,mobile,53.8,2026-01-31T12:47:41.246Z,SE
+C00107,U1467,ES,Spain,Madrid,Europe/Madrid,mobile,25.4,2026-04-30T16:23:06.821Z,SE
+C00108,U1398,JP,Japan,Tokyo,Asia/Tokyo,desktop,127.5,2026-02-01T21:30:41.401Z,KR
+C00109,U1063,IN,India,Mumbai,Asia/Kolkata,mobile,59.5,2026-02-18T07:14:46.870Z,SG
+C00110,U1238,CA,Canada,Toronto,America/Toronto,desktop,77.3,2026-04-08T00:13:22.185Z,BR
+C00111,U1745,DE,Germany,Berlin,Europe/Berlin,mobile,79.3,2026-02-17T03:21:37.842Z,FR
+C00112,U1007,FR,France,Paris,Europe/Paris,desktop,68.2,2026-03-04T07:41:21.548Z,GB
+C00113,U1555,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,82.1,2026-01-23T23:04:11.038Z,ES
+C00114,U1709,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,65.3,2026-01-24T10:55:52.659Z,US
+C00115,U1285,IT,Italy,Rome,Europe/Rome,desktop,77.8,2026-02-18T03:58:40.710Z,SE
+C00116,U1428,US,United States,New York,America/New_York,desktop,78.7,2026-01-14T09:06:52.081Z,CA
+C00117,U1734,SE,Sweden,Stockholm,Europe/Stockholm,desktop,106.3,2026-01-14T05:24:09.501Z,IT
+C00118,U1419,JP,Japan,Tokyo,Asia/Tokyo,mobile,73.3,2026-03-09T21:58:29.101Z,SG
+C00119,U1645,DE,Germany,Berlin,Europe/Berlin,mobile,50.7,2026-02-14T19:48:40.590Z,NL
+C00120,U1006,KR,South Korea,Seoul,Asia/Seoul,mobile,58.4,2026-02-01T06:09:32.149Z,ZA
+C00121,U1766,PL,Poland,Warsaw,Europe/Warsaw,tablet,56.7,2026-03-16T09:33:06.175Z,DE
+C00122,U1240,US,United States,New York,America/New_York,desktop,104.9,2026-04-13T08:59:00.781Z,CA
+C00123,U1476,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,89.5,2026-01-28T09:23:25.296Z,ZA
+C00124,U1103,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,73.5,2026-02-20T11:06:27.709Z,FR
+C00125,U1262,KR,South Korea,Seoul,Asia/Seoul,mobile,80.3,2026-03-21T06:56:31.244Z,MX
+C00126,U1552,GB,United Kingdom,London,Europe/London,mobile,62.5,2026-04-19T10:17:22.095Z,ES
+C00127,U1621,JP,Japan,Tokyo,Asia/Tokyo,desktop,107,2026-03-23T12:21:17.307Z,SG
+C00128,U1113,CA,Canada,Toronto,America/Toronto,mobile,50.5,2026-04-10T05:07:20.379Z,MX
+C00129,U1607,GB,United Kingdom,London,Europe/London,desktop,100.8,2026-03-08T16:25:16.890Z,MX
+C00130,U1365,AU,Australia,Sydney,Australia/Sydney,desktop,77.2,2026-02-09T01:19:13.798Z,IN
+C00131,U1244,IN,India,Mumbai,Asia/Kolkata,desktop,102.6,2026-03-04T14:17:46.740Z,SE
+C00132,U1378,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,101.5,2026-04-30T19:04:53.525Z,US
+C00133,U1038,FR,France,Paris,Europe/Paris,desktop,95,2026-03-03T21:14:58.573Z,NL
+C00134,U1709,IN,India,Mumbai,Asia/Kolkata,desktop,85.2,2026-03-31T14:32:42.913Z,AU
+C00135,U1555,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,84.4,2026-03-07T12:22:23.134Z,ZA
+C00136,U1063,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,36,2026-02-26T20:35:37.608Z,CA
+C00137,U1326,DE,Germany,Berlin,Europe/Berlin,desktop,117.9,2026-01-11T17:49:37.622Z,IT
+C00138,U1119,KR,South Korea,Seoul,Asia/Seoul,mobile,78.3,2026-03-04T12:02:59.654Z,AU
+C00139,U1672,US,United States,New York,America/New_York,desktop,82.7,2026-03-18T17:47:27.756Z,IN
+C00140,U1544,IN,India,Mumbai,Asia/Kolkata,desktop,90.6,2026-03-02T13:44:33.945Z,SG
+C00141,U1775,ES,Spain,Madrid,Europe/Madrid,desktop,71.1,2026-04-23T13:20:13.693Z,FR
+C00142,U1424,DE,Germany,Berlin,Europe/Berlin,mobile,51.3,2026-02-27T02:56:02.946Z,FR
+C00143,U1390,DE,Germany,Berlin,Europe/Berlin,desktop,101.5,2026-04-16T18:51:51.414Z,GB
+C00144,U1549,AU,Australia,Sydney,Australia/Sydney,mobile,31.3,2026-02-09T01:28:08.551Z,NL
+C00145,U1173,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,69.4,2026-04-05T14:24:31.851Z,CA
+C00146,U1633,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,45.4,2026-01-06T07:56:37.283Z,ZA
+C00147,U1355,IN,India,Mumbai,Asia/Kolkata,mobile,52.7,2026-03-25T22:46:55.846Z,KR
+C00148,U1163,US,United States,New York,America/New_York,desktop,90.9,2026-02-15T06:06:08.012Z,CA
+C00149,U1172,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,54.6,2026-01-18T20:01:50.841Z,MX
+C00150,U1790,US,United States,New York,America/New_York,desktop,88.7,2026-01-13T22:02:21.590Z,KR
+C00151,U1502,CA,Canada,Toronto,America/Toronto,desktop,65.4,2026-04-25T23:25:14.232Z,FR
+C00152,U1289,SG,Singapore,Singapore,Asia/Singapore,mobile,68.2,2026-04-17T00:25:42.651Z,ZA
+C00153,U1445,US,United States,New York,America/New_York,desktop,89.2,2026-01-04T05:07:36.492Z,MX
+C00154,U1326,US,United States,New York,America/New_York,desktop,96.6,2026-02-19T21:13:16.446Z,CA
+C00155,U1754,US,United States,New York,America/New_York,desktop,76.2,2026-03-09T22:54:43.011Z,CA
+C00156,U1463,MX,Mexico,Mexico City,America/Mexico_City,mobile,32.9,2026-01-02T21:23:28.644Z,BR
+C00157,U1347,IN,India,Mumbai,Asia/Kolkata,desktop,81.4,2026-02-25T03:25:01.150Z,DE
+C00158,U1007,CA,Canada,Toronto,America/Toronto,mobile,55.5,2026-04-28T12:38:05.527Z,US
+C00159,U1348,IN,India,Mumbai,Asia/Kolkata,tablet,46.4,2026-02-03T19:27:34.008Z,SG
+C00160,U1404,AU,Australia,Sydney,Australia/Sydney,desktop,82.6,2026-01-20T21:04:46.771Z,ES
+C00161,U1284,FR,France,Paris,Europe/Paris,desktop,81.4,2026-03-20T22:32:49.730Z,DE
+C00162,U1644,DE,Germany,Berlin,Europe/Berlin,desktop,97,2026-02-16T13:49:27.889Z,IT
+C00163,U1634,IT,Italy,Rome,Europe/Rome,mobile,51.4,2026-02-06T12:35:20.852Z,SE
+C00164,U1179,KR,South Korea,Seoul,Asia/Seoul,desktop,125.7,2026-02-06T04:23:17.854Z,IN
+C00165,U1228,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,72.3,2026-04-17T06:03:18.229Z,SE
+C00166,U1318,ES,Spain,Madrid,Europe/Madrid,desktop,78.4,2026-01-13T20:31:58.706Z,GB
+C00167,U1389,IT,Italy,Rome,Europe/Rome,mobile,42.1,2026-03-25T08:23:22.083Z,GB
+C00168,U1697,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,70.8,2026-03-01T00:06:43.541Z,GB
+C00169,U1393,IT,Italy,Rome,Europe/Rome,desktop,90.1,2026-01-13T23:06:48.759Z,MX
+C00170,U1577,FR,France,Paris,Europe/Paris,desktop,94.7,2026-03-18T04:15:58.971Z,SE
+C00171,U1141,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,71.8,2026-04-11T11:18:29.634Z,CA
+C00172,U1740,GB,United Kingdom,London,Europe/London,desktop,80.5,2026-01-20T06:36:54.988Z,NL
+C00173,U1287,US,United States,New York,America/New_York,mobile,36.8,2026-01-05T20:26:25.398Z,GB
+C00174,U1217,SE,Sweden,Stockholm,Europe/Stockholm,mobile,50.8,2026-03-14T19:27:08.379Z,DE
+C00175,U1111,US,United States,New York,America/New_York,desktop,100.1,2026-01-12T22:01:00.147Z,ES
+C00176,U1206,ES,Spain,Madrid,Europe/Madrid,desktop,95.7,2026-01-15T02:40:10.507Z,NL
+C00177,U1471,SE,Sweden,Stockholm,Europe/Stockholm,tablet,98.4,2026-03-28T08:14:40.195Z,DE
+C00178,U1528,JP,Japan,Tokyo,Asia/Tokyo,mobile,63.6,2026-03-17T20:25:01.884Z,ES
+C00179,U1499,US,United States,New York,America/New_York,tablet,48.4,2026-01-06T04:39:21.405Z,MX
+C00180,U1781,IN,India,Mumbai,Asia/Kolkata,desktop,67.2,2026-01-05T05:21:03.292Z,KR
+C00181,U1645,JP,Japan,Tokyo,Asia/Tokyo,desktop,102.3,2026-02-02T20:22:06.703Z,SG
+C00182,U1786,DE,Germany,Berlin,Europe/Berlin,tablet,81.7,2026-04-26T09:13:45.035Z,SE
+C00183,U1164,SE,Sweden,Stockholm,Europe/Stockholm,desktop,114.9,2026-02-13T15:35:56.695Z,ES
+C00184,U1720,KR,South Korea,Seoul,Asia/Seoul,desktop,115.8,2026-04-11T01:13:00.315Z,AU
+C00185,U1321,US,United States,New York,America/New_York,tablet,63.2,2026-03-25T08:06:44.579Z,MX
+C00186,U1353,FR,France,Paris,Europe/Paris,mobile,61.2,2026-01-16T05:00:13.897Z,DE
+C00187,U1673,CA,Canada,Toronto,America/Toronto,tablet,68.7,2026-03-29T03:10:25.820Z,MX
+C00188,U1366,DE,Germany,Berlin,Europe/Berlin,mobile,50.4,2026-03-30T06:47:27.243Z,PL
+C00189,U1724,DE,Germany,Berlin,Europe/Berlin,mobile,86.9,2026-01-01T16:56:10.715Z,US
+C00190,U1067,PL,Poland,Warsaw,Europe/Warsaw,tablet,59.4,2026-03-02T22:39:48.998Z,IT
+C00191,U1138,DE,Germany,Berlin,Europe/Berlin,desktop,110,2026-02-02T16:59:10.714Z,NL
+C00192,U1118,MX,Mexico,Mexico City,America/Mexico_City,desktop,74.6,2026-02-11T16:31:40.966Z,CA
+C00193,U1584,SE,Sweden,Stockholm,Europe/Stockholm,mobile,61.1,2026-02-19T17:22:24.118Z,AU
+C00194,U1617,US,United States,New York,America/New_York,mobile,49.2,2026-04-20T11:11:27.280Z,MX
+C00195,U1052,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,28.3,2026-02-15T14:27:27.436Z,FR
+C00196,U1397,US,United States,New York,America/New_York,mobile,59.7,2026-04-09T08:36:23.976Z,ES
+C00197,U1082,AU,Australia,Sydney,Australia/Sydney,desktop,91.1,2026-03-17T06:41:26.933Z,IN
+C00198,U1051,PL,Poland,Warsaw,Europe/Warsaw,mobile,35.9,2026-03-29T22:21:09.793Z,FR
+C00199,U1559,DE,Germany,Berlin,Europe/Berlin,tablet,86.3,2026-03-27T22:57:33.972Z,SE
+C00200,U1381,US,United States,New York,America/New_York,mobile,41.4,2026-03-30T11:59:46.761Z,PL
+C00201,U1359,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,50.6,2026-02-01T08:00:42.352Z,MX
+C00202,U1139,GB,United Kingdom,London,Europe/London,desktop,80.9,2026-03-18T23:44:06.910Z,SE
+C00203,U1059,GB,United Kingdom,London,Europe/London,tablet,72.9,2026-01-27T05:23:08.584Z,FR
+C00204,U1441,GB,United Kingdom,London,Europe/London,desktop,103.7,2026-01-01T00:44:42.853Z,IT
+C00205,U1434,DE,Germany,Berlin,Europe/Berlin,mobile,61.5,2026-01-25T11:51:14.129Z,JP
+C00206,U1451,DE,Germany,Berlin,Europe/Berlin,desktop,98.6,2026-04-27T13:21:51.962Z,FR
+C00207,U1754,DE,Germany,Berlin,Europe/Berlin,tablet,74.6,2026-02-28T11:10:35.640Z,ES
+C00208,U1316,US,United States,New York,America/New_York,mobile,50.9,2026-02-13T23:01:01.956Z,MX
+C00209,U1707,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,97.6,2026-01-23T13:33:50.419Z,FR
+C00210,U1171,DE,Germany,Berlin,Europe/Berlin,desktop,106.4,2026-04-22T15:32:08.143Z,PL
+C00211,U1508,DE,Germany,Berlin,Europe/Berlin,desktop,125.7,2026-03-15T23:17:43.677Z,CA
+C00212,U1349,CA,Canada,Toronto,America/Toronto,desktop,99.3,2026-04-16T07:23:14.938Z,SE
+C00213,U1398,MX,Mexico,Mexico City,America/Mexico_City,mobile,41.3,2026-01-24T02:32:00.773Z,US
+C00214,U1686,AU,Australia,Sydney,Australia/Sydney,mobile,52.8,2026-02-19T12:29:27.717Z,IN
+C00215,U1134,GB,United Kingdom,London,Europe/London,mobile,26.5,2026-02-24T09:01:49.816Z,ES
+C00216,U1457,US,United States,New York,America/New_York,tablet,65.1,2026-03-02T22:23:42.298Z,GB
+C00217,U1393,US,United States,New York,America/New_York,desktop,84.3,2026-01-18T01:48:29.000Z,MX
+C00218,U1684,US,United States,New York,America/New_York,desktop,71.3,2026-04-19T03:16:27.100Z,CA
+C00219,U1700,IT,Italy,Rome,Europe/Rome,tablet,55,2026-02-26T16:11:20.205Z,ES
+C00220,U1718,FR,France,Paris,Europe/Paris,mobile,58.1,2026-03-29T14:33:55.766Z,IT
+C00221,U1708,SG,Singapore,Singapore,Asia/Singapore,desktop,111.5,2026-03-23T17:42:21.960Z,IN
+C00222,U1047,DE,Germany,Berlin,Europe/Berlin,desktop,116,2026-03-28T21:45:43.865Z,ES
+C00223,U1724,KR,South Korea,Seoul,Asia/Seoul,desktop,129.9,2026-03-30T16:19:49.588Z,JP
+C00224,U1569,FR,France,Paris,Europe/Paris,mobile,27,2026-02-24T13:08:55.095Z,NL
+C00225,U1429,MX,Mexico,Mexico City,America/Mexico_City,mobile,61.8,2026-04-17T13:52:37.380Z,US
+C00226,U1241,IN,India,Mumbai,Asia/Kolkata,desktop,73.7,2026-01-26T09:09:31.842Z,US
+C00227,U1799,AU,Australia,Sydney,Australia/Sydney,desktop,66.9,2026-02-13T21:05:57.952Z,IN
+C00228,U1011,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,72.4,2026-03-28T12:25:55.469Z,ZA
+C00229,U1279,CA,Canada,Toronto,America/Toronto,tablet,72.6,2026-04-18T22:50:16.730Z,BR
+C00230,U1227,IN,India,Mumbai,Asia/Kolkata,tablet,70.4,2026-04-12T06:07:45.487Z,SG
+C00231,U1516,PL,Poland,Warsaw,Europe/Warsaw,desktop,101.4,2026-02-04T22:32:10.943Z,NL
+C00232,U1413,ES,Spain,Madrid,Europe/Madrid,mobile,41,2026-03-14T10:46:18.465Z,FR
+C00233,U1457,AU,Australia,Sydney,Australia/Sydney,desktop,72.5,2026-02-23T06:41:33.626Z,KR
+C00234,U1100,US,United States,New York,America/New_York,mobile,36.9,2026-02-09T04:55:49.743Z,MX
+C00235,U1500,GB,United Kingdom,London,Europe/London,desktop,70.7,2026-04-17T00:48:09.771Z,SE
+C00236,U1236,IN,India,Mumbai,Asia/Kolkata,desktop,67.1,2026-02-28T03:59:43.386Z,KR
+C00237,U1489,US,United States,New York,America/New_York,mobile,57.2,2026-04-08T12:41:06.861Z,MX
+C00238,U1077,DE,Germany,Berlin,Europe/Berlin,mobile,62.4,2026-03-26T22:01:29.800Z,PL
+C00239,U1413,MX,Mexico,Mexico City,America/Mexico_City,desktop,70.6,2026-03-09T19:29:03.695Z,CA
+C00240,U1404,US,United States,New York,America/New_York,mobile,30.6,2026-02-23T17:00:07.181Z,CA
+C00241,U1436,PL,Poland,Warsaw,Europe/Warsaw,desktop,67.6,2026-04-01T23:50:02.970Z,IT
+C00242,U1308,GB,United Kingdom,London,Europe/London,mobile,45.2,2026-04-29T21:27:53.601Z,ES
+C00243,U1184,US,United States,New York,America/New_York,desktop,104.8,2026-03-17T19:31:42.724Z,CA
+C00244,U1644,IN,India,Mumbai,Asia/Kolkata,desktop,70.6,2026-02-28T01:00:00.453Z,SG
+C00245,U1197,ES,Spain,Madrid,Europe/Madrid,mobile,41.8,2026-04-12T14:38:23.652Z,FR
+C00246,U1700,IT,Italy,Rome,Europe/Rome,desktop,102,2026-02-06T09:10:26.928Z,SE
+C00247,U1482,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,50.4,2026-01-21T16:07:51.373Z,US
+C00248,U1125,CA,Canada,Toronto,America/Toronto,mobile,65,2026-03-09T09:19:06.375Z,MX
+C00249,U1439,IT,Italy,Rome,Europe/Rome,desktop,93.2,2026-02-11T21:43:31.814Z,FR
+C00250,U1288,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,54.8,2026-03-24T21:00:11.668Z,IT
+C00251,U1327,ES,Spain,Madrid,Europe/Madrid,mobile,35.8,2026-01-02T19:08:23.976Z,IT
+C00252,U1482,GB,United Kingdom,London,Europe/London,desktop,78.2,2026-01-27T02:11:51.283Z,SE
+C00253,U1333,IN,India,Mumbai,Asia/Kolkata,desktop,69.9,2026-04-13T18:33:33.958Z,AU
+C00254,U1779,DE,Germany,Berlin,Europe/Berlin,desktop,121.4,2026-03-12T10:04:58.936Z,PL
+C00255,U1516,GB,United Kingdom,London,Europe/London,mobile,56,2026-04-20T05:29:12.999Z,SE
+C00256,U1345,IN,India,Mumbai,Asia/Kolkata,desktop,70.7,2026-03-27T11:37:32.430Z,JP
+C00257,U1011,CA,Canada,Toronto,America/Toronto,mobile,28.7,2026-01-14T12:24:11.406Z,SE
+C00258,U1361,IN,India,Mumbai,Asia/Kolkata,mobile,38.4,2026-01-18T14:12:11.526Z,KR
+C00259,U1123,US,United States,New York,America/New_York,desktop,70.9,2026-02-16T22:56:19.906Z,MX
+C00260,U1224,BR,Brazil,São Paulo,America/Sao_Paulo,tablet,56.8,2026-04-01T11:40:27.224Z,US
+C00261,U1341,US,United States,New York,America/New_York,desktop,65.9,2026-02-12T13:18:17.971Z,CA
+C00262,U1366,MX,Mexico,Mexico City,America/Mexico_City,mobile,38.7,2026-02-02T18:00:53.834Z,SG
+C00263,U1429,US,United States,New York,America/New_York,desktop,93,2026-03-07T13:18:06.218Z,BR
+C00264,U1023,IN,India,Mumbai,Asia/Kolkata,desktop,73.9,2026-02-09T20:28:10.034Z,SG
+C00265,U1682,FR,France,Paris,Europe/Paris,mobile,56.5,2026-02-26T21:00:41.758Z,GB
+C00266,U1711,US,United States,New York,America/New_York,desktop,87,2026-01-26T02:59:04.573Z,FR
+C00267,U1310,DE,Germany,Berlin,Europe/Berlin,desktop,117.9,2026-01-23T23:33:34.790Z,NL
+C00268,U1703,US,United States,New York,America/New_York,mobile,33.5,2026-02-16T04:01:20.473Z,MX
+C00269,U1408,IT,Italy,Rome,Europe/Rome,desktop,104.6,2026-01-04T13:39:33.696Z,FR
+C00270,U1125,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,96.8,2026-02-16T17:00:58.753Z,ZA
+C00271,U1767,US,United States,New York,America/New_York,mobile,45.7,2026-04-18T11:55:45.011Z,BR
+C00272,U1784,KR,South Korea,Seoul,Asia/Seoul,mobile,84.4,2026-01-29T19:09:29.138Z,IN
+C00273,U1478,GB,United Kingdom,London,Europe/London,tablet,68.4,2026-04-14T05:15:20.200Z,PL
+C00274,U1175,IN,India,Mumbai,Asia/Kolkata,mobile,49.7,2026-02-06T10:05:01.846Z,KR
+C00275,U1618,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,45.9,2026-03-18T09:31:14.864Z,MX
+C00276,U1130,AU,Australia,Sydney,Australia/Sydney,mobile,37.5,2026-01-10T07:12:34.552Z,KR
+C00277,U1629,SG,Singapore,Singapore,Asia/Singapore,mobile,57.2,2026-04-01T13:30:23.179Z,JP
+C00278,U1669,MX,Mexico,Mexico City,America/Mexico_City,desktop,90.4,2026-04-15T21:49:13.470Z,PL
+C00279,U1606,DE,Germany,Berlin,Europe/Berlin,mobile,65,2026-02-23T22:54:10.184Z,SE
+C00280,U1750,SE,Sweden,Stockholm,Europe/Stockholm,desktop,102.9,2026-01-25T19:05:56.722Z,IN
+C00281,U1701,US,United States,New York,America/New_York,desktop,81.2,2026-03-04T12:58:46.780Z,BR
+C00282,U1519,JP,Japan,Tokyo,Asia/Tokyo,mobile,59.2,2026-03-22T16:42:20.134Z,MX
+C00283,U1106,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,95.2,2026-03-17T11:41:49.263Z,IT
+C00284,U1121,FR,France,Paris,Europe/Paris,desktop,78.5,2026-03-24T00:47:44.701Z,AU
+C00285,U1353,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,87.6,2026-01-09T15:36:25.748Z,US
+C00286,U1419,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,80.9,2026-01-04T11:34:42.441Z,IT
+C00287,U1469,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,104.1,2026-04-26T07:21:44.371Z,ZA
+C00288,U1770,IT,Italy,Rome,Europe/Rome,mobile,29.3,2026-02-17T15:01:45.446Z,ES
+C00289,U1558,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,108.2,2026-01-03T19:30:32.162Z,ES
+C00290,U1467,US,United States,New York,America/New_York,mobile,48.2,2026-01-10T05:18:34.946Z,MX
+C00291,U1555,US,United States,New York,America/New_York,desktop,72.5,2026-04-04T20:12:11.592Z,CA
+C00292,U1265,SG,Singapore,Singapore,Asia/Singapore,desktop,104.2,2026-01-07T14:03:07.259Z,IN
+C00293,U1011,IN,India,Mumbai,Asia/Kolkata,desktop,70.1,2026-02-24T17:21:38.741Z,SG
+C00294,U1104,IN,India,Mumbai,Asia/Kolkata,mobile,51.1,2026-03-20T17:54:59.040Z,KR
+C00295,U1236,GB,United Kingdom,London,Europe/London,mobile,35.6,2026-02-20T10:59:36.441Z,FR
+C00296,U1196,DE,Germany,Berlin,Europe/Berlin,tablet,70.8,2026-02-26T09:57:48.574Z,NL
+C00297,U1301,SE,Sweden,Stockholm,Europe/Stockholm,tablet,101.3,2026-02-23T23:02:01.290Z,JP
+C00298,U1526,KR,South Korea,Seoul,Asia/Seoul,desktop,97.5,2026-04-06T19:57:14.778Z,IN
+C00299,U1688,IN,India,Mumbai,Asia/Kolkata,mobile,27.2,2026-04-26T22:51:36.596Z,AU
+C00300,U1662,IN,India,Mumbai,Asia/Kolkata,mobile,50.4,2026-04-22T21:15:32.550Z,KR
+C00301,U1161,ES,Spain,Madrid,Europe/Madrid,mobile,46.4,2026-03-05T15:52:55.141Z,ZA
+C00302,U1617,US,United States,New York,America/New_York,desktop,94.7,2026-03-02T00:09:16.010Z,GB
+C00303,U1378,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,72.6,2026-04-03T13:01:15.014Z,US
+C00304,U1391,IN,India,Mumbai,Asia/Kolkata,desktop,88,2026-03-31T20:07:54.839Z,BR
+C00305,U1566,DE,Germany,Berlin,Europe/Berlin,mobile,71.4,2026-01-06T06:25:59.616Z,GB
+C00306,U1657,SG,Singapore,Singapore,Asia/Singapore,tablet,98.9,2026-01-23T17:37:56.741Z,KR
+C00307,U1005,FR,France,Paris,Europe/Paris,mobile,36.9,2026-01-20T08:48:11.662Z,KR
+C00308,U1127,FR,France,Paris,Europe/Paris,mobile,27.6,2026-02-28T18:12:07.452Z,DE
+C00309,U1603,CA,Canada,Toronto,America/Toronto,mobile,35.4,2026-02-03T09:08:07.838Z,MX
+C00310,U1012,MX,Mexico,Mexico City,America/Mexico_City,desktop,92.3,2026-03-05T20:59:50.647Z,CA
+C00311,U1617,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,95,2026-01-23T20:14:27.034Z,CA
+C00312,U1506,IN,India,Mumbai,Asia/Kolkata,desktop,75.3,2026-02-17T21:42:24.410Z,JP
+C00313,U1770,DE,Germany,Berlin,Europe/Berlin,mobile,71.6,2026-01-12T01:54:41.728Z,PL
+C00314,U1555,PL,Poland,Warsaw,Europe/Warsaw,desktop,76,2026-01-11T20:34:17.865Z,NL
+C00315,U1633,GB,United Kingdom,London,Europe/London,mobile,43.6,2026-02-24T15:00:40.329Z,CA
+C00316,U1176,IN,India,Mumbai,Asia/Kolkata,mobile,41.7,2026-04-06T17:55:34.176Z,AU
+C00317,U1223,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,35.8,2026-01-28T09:50:20.166Z,ZA
+C00318,U1736,AU,Australia,Sydney,Australia/Sydney,desktop,70.8,2026-03-15T15:08:25.890Z,NL
+C00319,U1640,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,99.5,2026-02-11T18:47:17.493Z,CA
+C00320,U1177,KR,South Korea,Seoul,Asia/Seoul,tablet,65.9,2026-01-19T04:37:23.062Z,IN
+C00321,U1467,JP,Japan,Tokyo,Asia/Tokyo,desktop,126.7,2026-01-21T21:09:22.240Z,KR
+C00322,U1696,US,United States,New York,America/New_York,mobile,46.3,2026-02-02T17:37:04.173Z,JP
+C00323,U1464,US,United States,New York,America/New_York,mobile,30.2,2026-01-23T19:00:24.498Z,CA
+C00324,U1793,MX,Mexico,Mexico City,America/Mexico_City,desktop,82.4,2026-01-10T00:04:49.910Z,IT
+C00325,U1079,FR,France,Paris,Europe/Paris,desktop,100.4,2026-04-16T04:32:39.863Z,DE
+C00326,U1418,GB,United Kingdom,London,Europe/London,desktop,70.4,2026-02-26T09:46:38.281Z,IT
+C00327,U1397,IN,India,Mumbai,Asia/Kolkata,desktop,87.3,2026-04-22T10:25:18.118Z,AU
+C00328,U1213,IT,Italy,Rome,Europe/Rome,tablet,44.6,2026-01-14T10:32:43.388Z,FR
+C00329,U1337,AU,Australia,Sydney,Australia/Sydney,mobile,60,2026-03-18T05:06:47.638Z,JP
+C00330,U1167,IN,India,Mumbai,Asia/Kolkata,desktop,85,2026-02-23T04:36:24.134Z,JP
+C00331,U1484,GB,United Kingdom,London,Europe/London,desktop,103.9,2026-01-28T05:40:23.755Z,ES
+C00332,U1129,FR,France,Paris,Europe/Paris,tablet,55.4,2026-03-07T11:08:32.161Z,IT
+C00333,U1436,US,United States,New York,America/New_York,mobile,39.1,2026-02-27T03:41:20.009Z,BR
+C00334,U1246,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,80.3,2026-03-19T12:20:58.521Z,CA
+C00335,U1190,IN,India,Mumbai,Asia/Kolkata,mobile,57.8,2026-02-09T10:36:58.104Z,AU
+C00336,U1247,SG,Singapore,Singapore,Asia/Singapore,desktop,125.2,2026-04-08T18:44:12.930Z,KR
+C00337,U1071,FR,France,Paris,Europe/Paris,desktop,93.9,2026-04-18T11:55:28.337Z,DE
+C00338,U1608,DE,Germany,Berlin,Europe/Berlin,mobile,62.6,2026-02-07T12:45:19.863Z,ES
+C00339,U1492,DE,Germany,Berlin,Europe/Berlin,desktop,90.7,2026-01-15T04:03:28.731Z,NL
+C00340,U1390,US,United States,New York,America/New_York,mobile,62.9,2026-01-04T13:56:34.188Z,BR
+C00341,U1686,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,28.3,2026-02-17T15:49:03.328Z,CA
+C00342,U1575,FR,France,Paris,Europe/Paris,desktop,69,2026-02-04T21:05:36.703Z,ES
+C00343,U1494,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,46.7,2026-04-10T01:02:59.173Z,CA
+C00344,U1526,US,United States,New York,America/New_York,desktop,103.5,2026-03-30T00:24:35.659Z,CA
+C00345,U1697,FR,France,Paris,Europe/Paris,mobile,34.9,2026-04-05T23:35:26.105Z,SE
+C00346,U1513,US,United States,New York,America/New_York,desktop,72.8,2026-01-28T22:49:42.516Z,CA
+C00347,U1376,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,81.6,2026-04-30T12:02:11.476Z,MX
+C00348,U1639,IT,Italy,Rome,Europe/Rome,desktop,103.3,2026-03-05T17:43:37.181Z,GB
+C00349,U1742,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,71.8,2026-03-14T16:34:09.499Z,MX
+C00350,U1712,GB,United Kingdom,London,Europe/London,mobile,52.3,2026-01-08T17:59:10.027Z,FR
+C00351,U1604,IN,India,Mumbai,Asia/Kolkata,desktop,75.1,2026-03-23T07:42:31.678Z,KR
+C00352,U1270,IN,India,Mumbai,Asia/Kolkata,mobile,35.1,2026-02-15T15:05:54.406Z,JP
+C00353,U1478,US,United States,New York,America/New_York,mobile,45,2026-04-15T08:29:34.484Z,MX
+C00354,U1294,DE,Germany,Berlin,Europe/Berlin,mobile,50.3,2026-03-29T02:57:04.778Z,ES
+C00355,U1483,US,United States,New York,America/New_York,desktop,84.1,2026-03-09T05:10:13.667Z,MX
+C00356,U1701,GB,United Kingdom,London,Europe/London,desktop,81.9,2026-04-20T18:05:04.615Z,FR
+C00357,U1381,JP,Japan,Tokyo,Asia/Tokyo,desktop,109.9,2026-02-17T21:20:17.751Z,SG
+C00358,U1338,JP,Japan,Tokyo,Asia/Tokyo,desktop,118,2026-04-09T23:34:02.117Z,SG
+C00359,U1556,US,United States,New York,America/New_York,tablet,52.8,2026-01-13T09:04:03.817Z,BR
+C00360,U1464,GB,United Kingdom,London,Europe/London,mobile,33.5,2026-01-20T12:55:23.126Z,IT
+C00361,U1024,GB,United Kingdom,London,Europe/London,desktop,97.3,2026-03-18T07:08:11.880Z,BR
+C00362,U1701,US,United States,New York,America/New_York,desktop,77.9,2026-01-30T04:54:24.288Z,MX
+C00363,U1571,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,62.2,2026-02-14T19:31:07.233Z,IT
+C00364,U1355,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,89.4,2026-03-02T14:08:18.534Z,US
+C00365,U1450,US,United States,New York,America/New_York,mobile,58,2026-03-27T02:52:32.339Z,MX
+C00366,U1079,US,United States,New York,America/New_York,mobile,63,2026-04-09T21:44:28.913Z,BR
+C00367,U1019,GB,United Kingdom,London,Europe/London,mobile,54.7,2026-04-29T15:39:22.313Z,SE
+C00368,U1462,US,United States,New York,America/New_York,tablet,63.1,2026-04-11T02:04:03.686Z,MX
+C00369,U1085,IN,India,Mumbai,Asia/Kolkata,desktop,79.2,2026-04-19T23:51:37.924Z,AU
+C00370,U1057,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,95.1,2026-02-04T09:46:40.328Z,SG
+C00371,U1406,PL,Poland,Warsaw,Europe/Warsaw,desktop,71.7,2026-01-28T05:10:53.231Z,FR
+C00372,U1140,NL,Netherlands,Amsterdam,Europe/Amsterdam,tablet,65.9,2026-02-13T22:56:37.178Z,FR
+C00373,U1279,JP,Japan,Tokyo,Asia/Tokyo,desktop,101,2026-02-19T20:20:42.494Z,BR
+C00374,U1790,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,73.1,2026-02-27T15:17:54.204Z,SG
+C00375,U1243,DE,Germany,Berlin,Europe/Berlin,mobile,86.8,2026-03-24T19:54:48.299Z,IT
+C00376,U1378,GB,United Kingdom,London,Europe/London,desktop,98.6,2026-01-27T15:42:28.381Z,DE
+C00377,U1755,KR,South Korea,Seoul,Asia/Seoul,desktop,123.1,2026-04-07T01:23:42.661Z,JP
+C00378,U1085,JP,Japan,Tokyo,Asia/Tokyo,desktop,110.3,2026-03-19T13:47:03.960Z,IN
+C00379,U1188,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,78.1,2026-02-27T19:20:43.084Z,ZA
+C00380,U1079,FR,France,Paris,Europe/Paris,tablet,43.1,2026-02-01T18:11:45.853Z,NL
+C00381,U1196,IN,India,Mumbai,Asia/Kolkata,mobile,54.1,2026-04-25T22:26:27.668Z,JP
+C00382,U1011,SE,Sweden,Stockholm,Europe/Stockholm,desktop,94.4,2026-02-15T18:04:00.484Z,ES
+C00383,U1401,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,59.3,2026-02-15T03:33:18.462Z,DE
+C00384,U1131,AU,Australia,Sydney,Australia/Sydney,mobile,48.9,2026-03-30T07:17:27.952Z,IN
+C00385,U1084,IN,India,Mumbai,Asia/Kolkata,desktop,87.4,2026-04-01T04:26:17.788Z,SG
+C00386,U1591,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,66.9,2026-03-27T16:44:29.901Z,CA
+C00387,U1196,GB,United Kingdom,London,Europe/London,mobile,34.7,2026-02-17T20:08:50.236Z,IT
+C00388,U1483,ES,Spain,Madrid,Europe/Madrid,tablet,53.9,2026-01-02T10:21:22.494Z,PL
+C00389,U1371,CA,Canada,Toronto,America/Toronto,desktop,83.9,2026-03-16T05:00:35.597Z,US
+C00390,U1092,MX,Mexico,Mexico City,America/Mexico_City,mobile,62.1,2026-04-01T17:53:24.096Z,US
+C00391,U1763,US,United States,New York,America/New_York,mobile,61.8,2026-04-16T01:16:52.919Z,IT
+C00392,U1439,ES,Spain,Madrid,Europe/Madrid,mobile,39.8,2026-03-14T18:45:43.629Z,GB
+C00393,U1237,FR,France,Paris,Europe/Paris,desktop,67.8,2026-01-01T01:43:09.625Z,IT
+C00394,U1167,IN,India,Mumbai,Asia/Kolkata,mobile,50.2,2026-01-09T22:50:52.681Z,AU
+C00395,U1286,GB,United Kingdom,London,Europe/London,desktop,97,2026-03-07T06:01:00.366Z,IT
+C00396,U1615,DE,Germany,Berlin,Europe/Berlin,mobile,75.1,2026-03-13T18:27:28.896Z,ES
+C00397,U1329,KR,South Korea,Seoul,Asia/Seoul,desktop,112.8,2026-01-18T21:40:26.011Z,IN
+C00398,U1648,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,75.3,2026-01-07T04:54:14.711Z,ZA
+C00399,U1182,US,United States,New York,America/New_York,desktop,94.5,2026-04-11T03:31:15.987Z,BR
+C00400,U1316,GB,United Kingdom,London,Europe/London,desktop,77.9,2026-02-10T21:24:28.012Z,FR
+C00401,U1102,FR,France,Paris,Europe/Paris,desktop,79,2026-04-21T05:03:35.879Z,PL
+C00402,U1120,IT,Italy,Rome,Europe/Rome,mobile,50.4,2026-03-21T18:11:19.601Z,GB
+C00403,U1795,GB,United Kingdom,London,Europe/London,desktop,85,2026-03-30T12:40:39.281Z,SE
+C00404,U1101,DE,Germany,Berlin,Europe/Berlin,desktop,92,2026-04-07T21:44:14.816Z,SE
+C00405,U1726,US,United States,New York,America/New_York,desktop,71.3,2026-03-17T19:30:24.393Z,MX
+C00406,U1700,ES,Spain,Madrid,Europe/Madrid,mobile,42,2026-03-15T15:59:33.550Z,PL
+C00407,U1147,GB,United Kingdom,London,Europe/London,mobile,39.6,2026-03-17T11:37:45.609Z,NL
+C00408,U1544,US,United States,New York,America/New_York,mobile,42.9,2026-01-08T14:47:41.048Z,MX
+C00409,U1127,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,99.1,2026-03-17T18:51:56.217Z,US
+C00410,U1011,ES,Spain,Madrid,Europe/Madrid,mobile,55.3,2026-04-07T19:01:02.832Z,SE
+C00411,U1620,GB,United Kingdom,London,Europe/London,desktop,89.8,2026-03-06T12:13:33.196Z,SG
+C00412,U1714,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,52.6,2026-04-30T14:43:49.706Z,MX
+C00413,U1069,IN,India,Mumbai,Asia/Kolkata,desktop,85.6,2026-03-04T21:56:42.107Z,AU
+C00414,U1205,FR,France,Paris,Europe/Paris,tablet,76.7,2026-01-25T05:41:40.737Z,DE
+C00415,U1234,SE,Sweden,Stockholm,Europe/Stockholm,desktop,124.2,2026-01-04T19:38:56.798Z,NL
+C00416,U1154,JP,Japan,Tokyo,Asia/Tokyo,mobile,86,2026-01-30T06:51:19.662Z,KR
+C00417,U1221,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,100.9,2026-02-19T09:32:21.870Z,DE
+C00418,U1597,DE,Germany,Berlin,Europe/Berlin,desktop,120.2,2026-04-08T18:44:59.720Z,AU
+C00419,U1625,IT,Italy,Rome,Europe/Rome,mobile,53.6,2026-01-28T05:34:45.150Z,PL
+C00420,U1402,US,United States,New York,America/New_York,tablet,60.8,2026-04-09T15:37:57.341Z,CA
+C00421,U1635,JP,Japan,Tokyo,Asia/Tokyo,desktop,111.6,2026-03-04T07:52:08.765Z,SG
+C00422,U1113,PL,Poland,Warsaw,Europe/Warsaw,mobile,55.5,2026-02-21T07:30:35.781Z,ES
+C00423,U1359,IN,India,Mumbai,Asia/Kolkata,desktop,86.2,2026-04-07T18:05:30.800Z,AU
+C00424,U1251,IN,India,Mumbai,Asia/Kolkata,mobile,34.1,2026-03-11T11:04:45.848Z,JP
+C00425,U1335,PL,Poland,Warsaw,Europe/Warsaw,desktop,100.1,2026-03-31T03:10:35.248Z,DE
+C00426,U1038,IN,India,Mumbai,Asia/Kolkata,mobile,48.6,2026-01-22T02:45:17.344Z,AU
+C00427,U1742,KR,South Korea,Seoul,Asia/Seoul,mobile,79.6,2026-01-25T14:26:44.210Z,JP
+C00428,U1554,IT,Italy,Rome,Europe/Rome,tablet,65.5,2026-04-22T05:39:21.859Z,JP
+C00429,U1490,AU,Australia,Sydney,Australia/Sydney,tablet,48.9,2026-02-14T09:27:29.010Z,SG
+C00430,U1352,US,United States,New York,America/New_York,desktop,85.8,2026-02-24T01:11:21.217Z,MX
+C00431,U1233,DE,Germany,Berlin,Europe/Berlin,desktop,120.8,2026-02-11T04:47:21.140Z,ZA
+C00432,U1406,IN,India,Mumbai,Asia/Kolkata,tablet,55.9,2026-02-18T03:06:37.435Z,BR
+C00433,U1235,GB,United Kingdom,London,Europe/London,tablet,58.5,2026-01-02T06:06:26.981Z,NL
+C00434,U1223,US,United States,New York,America/New_York,desktop,74.8,2026-04-15T04:14:01.458Z,BR
+C00435,U1223,IN,India,Mumbai,Asia/Kolkata,tablet,42.4,2026-01-25T11:51:54.465Z,KR
+C00436,U1484,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,51.4,2026-02-28T01:04:16.741Z,ES
+C00437,U1620,IN,India,Mumbai,Asia/Kolkata,desktop,69.3,2026-04-14T10:18:01.542Z,MX
+C00438,U1429,PL,Poland,Warsaw,Europe/Warsaw,tablet,64.2,2026-01-24T04:11:48.547Z,IT
+C00439,U1533,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,103.2,2026-01-09T00:18:45.743Z,DE
+C00440,U1076,NL,Netherlands,Amsterdam,Europe/Amsterdam,tablet,81.5,2026-01-15T12:48:09.545Z,IT
+C00441,U1039,SG,Singapore,Singapore,Asia/Singapore,mobile,75.7,2026-04-27T07:09:25.944Z,JP
+C00442,U1566,US,United States,New York,America/New_York,desktop,86.8,2026-01-04T15:22:37.108Z,BR
+C00443,U1098,DE,Germany,Berlin,Europe/Berlin,desktop,99.9,2026-04-05T05:21:09.571Z,ES
+C00444,U1428,IN,India,Mumbai,Asia/Kolkata,mobile,55.1,2026-02-10T07:40:51.081Z,ES
+C00445,U1746,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,56.5,2026-01-28T09:09:27.456Z,US
+C00446,U1554,CA,Canada,Toronto,America/Toronto,desktop,80.4,2026-03-10T00:44:07.862Z,MX
+C00447,U1641,US,United States,New York,America/New_York,desktop,73.4,2026-03-22T10:40:48.910Z,MX
+C00448,U1080,FR,France,Paris,Europe/Paris,desktop,86.1,2026-03-18T01:29:09.852Z,DE
+C00449,U1237,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,103.7,2026-02-09T21:41:19.198Z,FR
+C00450,U1617,AU,Australia,Sydney,Australia/Sydney,mobile,50.8,2026-02-10T09:08:52.973Z,PL
+C00451,U1395,GB,United Kingdom,London,Europe/London,mobile,49.5,2026-02-14T03:39:08.223Z,SE
+C00452,U1597,GB,United Kingdom,London,Europe/London,desktop,86.2,2026-03-30T11:25:58.214Z,FR
+C00453,U1245,KR,South Korea,Seoul,Asia/Seoul,mobile,74.5,2026-04-14T12:10:09.192Z,IN
+C00454,U1014,IT,Italy,Rome,Europe/Rome,mobile,59.7,2026-02-26T23:20:28.728Z,GB
+C00455,U1195,FR,France,Paris,Europe/Paris,mobile,43.2,2026-01-30T00:17:56.257Z,ZA
+C00456,U1701,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,55.9,2026-02-05T01:49:34.148Z,SE
+C00457,U1261,ES,Spain,Madrid,Europe/Madrid,mobile,59.5,2026-04-10T20:05:39.067Z,BR
+C00458,U1255,US,United States,New York,America/New_York,desktop,93,2026-01-30T13:06:41.602Z,BR
+C00459,U1443,DE,Germany,Berlin,Europe/Berlin,mobile,58.3,2026-04-15T04:08:59.306Z,ES
+C00460,U1323,CA,Canada,Toronto,America/Toronto,desktop,97.8,2026-04-24T18:07:55.720Z,BR
+C00461,U1110,SE,Sweden,Stockholm,Europe/Stockholm,mobile,51.5,2026-04-08T13:39:41.358Z,IT
+C00462,U1498,US,United States,New York,America/New_York,desktop,86.6,2026-02-17T01:29:22.662Z,GB
+C00463,U1776,AU,Australia,Sydney,Australia/Sydney,mobile,34.9,2026-03-03T17:00:52.140Z,KR
+C00464,U1575,JP,Japan,Tokyo,Asia/Tokyo,tablet,104.5,2026-01-01T20:23:04.024Z,AU
+C00465,U1002,MX,Mexico,Mexico City,America/Mexico_City,tablet,64.5,2026-03-26T00:01:56.388Z,BR
+C00466,U1562,CA,Canada,Toronto,America/Toronto,mobile,37.7,2026-04-20T16:12:52.823Z,US
+C00467,U1744,US,United States,New York,America/New_York,tablet,58,2026-04-29T11:43:54.878Z,MX
+C00468,U1644,IN,India,Mumbai,Asia/Kolkata,mobile,53.3,2026-02-23T08:04:12.804Z,AU
+C00469,U1292,ZA,South Africa,Cape Town,Africa/Johannesburg,tablet,43.6,2026-04-05T21:55:45.050Z,US
+C00470,U1678,DE,Germany,Berlin,Europe/Berlin,mobile,74.8,2026-04-25T07:55:57.870Z,ES
+C00471,U1157,KR,South Korea,Seoul,Asia/Seoul,desktop,107.8,2026-04-08T10:27:08.188Z,SG
+C00472,U1714,IN,India,Mumbai,Asia/Kolkata,desktop,72.7,2026-01-26T05:50:19.254Z,JP
+C00473,U1593,GB,United Kingdom,London,Europe/London,desktop,101.6,2026-01-24T20:35:07.009Z,PL
+C00474,U1715,FR,France,Paris,Europe/Paris,desktop,71.7,2026-03-02T13:25:53.056Z,GB
+C00475,U1363,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,109.3,2026-02-17T07:44:54.808Z,GB
+C00476,U1492,GB,United Kingdom,London,Europe/London,mobile,40.9,2026-01-31T06:07:57.456Z,PL
+C00477,U1558,GB,United Kingdom,London,Europe/London,mobile,48.3,2026-01-07T04:16:38.836Z,DE
+C00478,U1172,JP,Japan,Tokyo,Asia/Tokyo,mobile,72.3,2026-04-08T09:41:59.387Z,IN
+C00479,U1499,PL,Poland,Warsaw,Europe/Warsaw,desktop,95.7,2026-03-19T22:13:59.508Z,GB
+C00480,U1409,IN,India,Mumbai,Asia/Kolkata,tablet,54.9,2026-03-11T21:12:11.083Z,SG
+C00481,U1162,US,United States,New York,America/New_York,tablet,65.4,2026-02-10T07:20:26.109Z,SG
+C00482,U1565,GB,United Kingdom,London,Europe/London,desktop,97.7,2026-04-10T22:12:58.311Z,SE
+C00483,U1789,US,United States,New York,America/New_York,mobile,29.8,2026-02-01T21:45:35.984Z,MX
+C00484,U1509,KR,South Korea,Seoul,Asia/Seoul,mobile,59.3,2026-02-13T19:27:50.138Z,AU
+C00485,U1658,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,103,2026-04-06T10:29:20.669Z,ZA
+C00486,U1439,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,128.8,2026-02-17T04:43:20.014Z,GB
+C00487,U1286,IN,India,Mumbai,Asia/Kolkata,desktop,65.1,2026-02-01T22:02:05.649Z,AU
+C00488,U1122,MX,Mexico,Mexico City,America/Mexico_City,mobile,37.8,2026-01-08T07:07:40.526Z,IT
+C00489,U1073,US,United States,New York,America/New_York,mobile,50.1,2026-01-11T07:21:55.533Z,CA
+C00490,U1056,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,52.3,2026-01-13T19:31:19.418Z,ZA
+C00491,U1077,IT,Italy,Rome,Europe/Rome,mobile,54.2,2026-04-08T11:57:48.318Z,AU
+C00492,U1356,IN,India,Mumbai,Asia/Kolkata,desktop,104.8,2026-02-23T10:37:31.198Z,ES
+C00493,U1422,JP,Japan,Tokyo,Asia/Tokyo,mobile,83.6,2026-04-27T12:51:27.666Z,FR
+C00494,U1355,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,34.1,2026-03-27T12:00:19.580Z,DE
+C00495,U1582,JP,Japan,Tokyo,Asia/Tokyo,mobile,55,2026-02-14T15:22:54.645Z,KR
+C00496,U1503,PL,Poland,Warsaw,Europe/Warsaw,desktop,89.1,2026-02-06T09:26:07.567Z,US
+C00497,U1193,FR,France,Paris,Europe/Paris,desktop,67,2026-02-27T02:47:33.771Z,IT
+C00498,U1192,IN,India,Mumbai,Asia/Kolkata,mobile,37,2026-03-21T05:57:59.770Z,KR
+C00499,U1378,CA,Canada,Toronto,America/Toronto,mobile,64.5,2026-03-06T20:01:00.345Z,US
+C00500,U1038,MX,Mexico,Mexico City,America/Mexico_City,mobile,35.8,2026-03-03T09:17:45.756Z,US
+C00501,U1765,GB,United Kingdom,London,Europe/London,desktop,73.5,2026-03-07T09:39:37.007Z,FR
+C00502,U1386,MX,Mexico,Mexico City,America/Mexico_City,desktop,90.9,2026-02-22T10:17:55.671Z,BR
+C00503,U1670,FR,France,Paris,Europe/Paris,desktop,69,2026-04-18T03:36:46.973Z,PL
+C00504,U1152,IT,Italy,Rome,Europe/Rome,desktop,96.7,2026-04-25T08:53:55.467Z,SE
+C00505,U1162,SG,Singapore,Singapore,Asia/Singapore,mobile,61.3,2026-01-01T05:11:31.343Z,AU
+C00506,U1750,IN,India,Mumbai,Asia/Kolkata,desktop,68.3,2026-02-17T03:30:10.605Z,JP
+C00507,U1537,DE,Germany,Berlin,Europe/Berlin,mobile,53.9,2026-02-08T18:52:31.625Z,IT
+C00508,U1695,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,74.3,2026-02-01T02:39:50.979Z,MX
+C00509,U1242,SE,Sweden,Stockholm,Europe/Stockholm,desktop,100.5,2026-02-22T19:50:32.808Z,IT
+C00510,U1733,KR,South Korea,Seoul,Asia/Seoul,desktop,101.7,2026-04-07T02:02:06.396Z,JP
+C00511,U1689,GB,United Kingdom,London,Europe/London,desktop,76.8,2026-03-21T15:03:19.054Z,NL
+C00512,U1339,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,94.4,2026-02-08T15:11:13.097Z,CA
+C00513,U1362,JP,Japan,Tokyo,Asia/Tokyo,mobile,61.9,2026-03-10T17:32:52.849Z,SG
+C00514,U1270,IT,Italy,Rome,Europe/Rome,mobile,46.5,2026-03-28T02:55:10.992Z,IN
+C00515,U1340,GB,United Kingdom,London,Europe/London,mobile,57.8,2026-04-26T13:59:38.824Z,ES
+C00516,U1138,JP,Japan,Tokyo,Asia/Tokyo,desktop,119.2,2026-03-06T10:27:05.444Z,SG
+C00517,U1543,IN,India,Mumbai,Asia/Kolkata,desktop,95.4,2026-02-17T08:28:41.842Z,AU
+C00518,U1080,IN,India,Mumbai,Asia/Kolkata,mobile,50.9,2026-02-16T02:34:42.123Z,AU
+C00519,U1163,GB,United Kingdom,London,Europe/London,mobile,25.5,2026-04-02T04:54:18.341Z,IN
+C00520,U1465,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,96.9,2026-02-14T02:55:31.059Z,PL
+C00521,U1209,CA,Canada,Toronto,America/Toronto,desktop,94.8,2026-03-24T00:08:45.778Z,US
+C00522,U1256,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,113.3,2026-04-02T16:40:31.421Z,SE
+C00523,U1414,PL,Poland,Warsaw,Europe/Warsaw,mobile,30.8,2026-01-26T19:54:59.281Z,ES
+C00524,U1069,GB,United Kingdom,London,Europe/London,mobile,40,2026-02-11T06:16:48.941Z,DE
+C00525,U1067,FR,France,Paris,Europe/Paris,tablet,65.9,2026-03-28T13:52:25.484Z,PL
+C00526,U1686,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,55.1,2026-02-11T20:14:29.149Z,ES
+C00527,U1489,SG,Singapore,Singapore,Asia/Singapore,desktop,111.3,2026-03-27T15:45:23.437Z,JP
+C00528,U1283,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,86.7,2026-02-21T13:02:06.806Z,IT
+C00529,U1466,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,46.2,2026-03-03T05:59:22.367Z,US
+C00530,U1511,IN,India,Mumbai,Asia/Kolkata,desktop,101.9,2026-02-16T13:54:58.985Z,SG
+C00531,U1053,IN,India,Mumbai,Asia/Kolkata,desktop,102.1,2026-03-27T05:44:41.241Z,SG
+C00532,U1380,DE,Germany,Berlin,Europe/Berlin,desktop,117,2026-02-05T10:01:21.765Z,FR
+C00533,U1082,SG,Singapore,Singapore,Asia/Singapore,desktop,118.3,2026-02-15T13:01:20.028Z,IN
+C00534,U1478,IN,India,Mumbai,Asia/Kolkata,desktop,100.7,2026-04-23T10:52:52.736Z,SG
+C00535,U1708,GB,United Kingdom,London,Europe/London,desktop,66.2,2026-03-16T18:19:14.855Z,FR
+C00536,U1139,DE,Germany,Berlin,Europe/Berlin,mobile,55.7,2026-01-11T16:58:46.263Z,NL
+C00537,U1116,CA,Canada,Toronto,America/Toronto,mobile,38.7,2026-02-13T12:35:48.282Z,BR
+C00538,U1573,AU,Australia,Sydney,Australia/Sydney,mobile,58.6,2026-01-08T01:28:53.842Z,PL
+C00539,U1040,IN,India,Mumbai,Asia/Kolkata,desktop,79,2026-04-05T10:44:33.525Z,KR
+C00540,U1286,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,71.6,2026-02-23T03:48:33.860Z,GB
+C00541,U1066,DE,Germany,Berlin,Europe/Berlin,desktop,93.6,2026-03-30T20:04:27.182Z,IT
+C00542,U1185,DE,Germany,Berlin,Europe/Berlin,desktop,96.1,2026-04-28T17:12:12.871Z,PL
+C00543,U1394,IT,Italy,Rome,Europe/Rome,mobile,44.4,2026-01-30T05:32:14.226Z,FR
+C00544,U1621,CA,Canada,Toronto,America/Toronto,mobile,55.7,2026-02-10T20:56:16.963Z,FR
+C00545,U1232,AU,Australia,Sydney,Australia/Sydney,desktop,85.6,2026-03-23T17:03:44.851Z,KR
+C00546,U1078,US,United States,New York,America/New_York,desktop,73.8,2026-02-22T22:48:55.804Z,MX
+C00547,U1619,GB,United Kingdom,London,Europe/London,desktop,104,2026-03-29T19:26:40.490Z,ES
+C00548,U1741,KR,South Korea,Seoul,Asia/Seoul,mobile,63.8,2026-03-20T22:39:41.053Z,JP
+C00549,U1646,CA,Canada,Toronto,America/Toronto,desktop,86.6,2026-01-25T02:36:08.185Z,US
+C00550,U1670,IN,India,Mumbai,Asia/Kolkata,desktop,89.6,2026-03-05T00:36:21.277Z,PL
+C00551,U1677,GB,United Kingdom,London,Europe/London,tablet,74.3,2026-03-18T21:05:15.578Z,DE
+C00552,U1230,DE,Germany,Berlin,Europe/Berlin,desktop,98.2,2026-03-31T03:01:15.647Z,PL
+C00553,U1531,AU,Australia,Sydney,Australia/Sydney,mobile,50.8,2026-01-09T08:20:41.907Z,IN
+C00554,U1566,SE,Sweden,Stockholm,Europe/Stockholm,mobile,65,2026-01-21T00:58:26.264Z,ES
+C00555,U1168,CA,Canada,Toronto,America/Toronto,mobile,39.5,2026-01-24T16:35:59.539Z,BR
+C00556,U1214,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,101.1,2026-04-05T02:24:21.229Z,ZA
+C00557,U1051,GB,United Kingdom,London,Europe/London,desktop,71.1,2026-04-12T01:25:14.893Z,SE
+C00558,U1736,IN,India,Mumbai,Asia/Kolkata,mobile,55.5,2026-03-09T22:15:31.301Z,KR
+C00559,U1543,IN,India,Mumbai,Asia/Kolkata,desktop,82.4,2026-04-30T13:37:04.717Z,US
+C00560,U1748,MX,Mexico,Mexico City,America/Mexico_City,tablet,40.5,2026-04-02T21:46:37.807Z,US
+C00561,U1482,PL,Poland,Warsaw,Europe/Warsaw,desktop,86.6,2026-04-30T15:08:55.520Z,NL
+C00562,U1236,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,75.9,2026-03-15T05:32:05.723Z,MX
+C00563,U1734,DE,Germany,Berlin,Europe/Berlin,tablet,76.7,2026-01-13T14:29:44.843Z,SE
+C00564,U1257,US,United States,New York,America/New_York,desktop,87.1,2026-03-07T14:37:08.521Z,MX
+C00565,U1514,SE,Sweden,Stockholm,Europe/Stockholm,tablet,92.6,2026-04-20T23:25:09.469Z,NL
+C00566,U1299,MX,Mexico,Mexico City,America/Mexico_City,mobile,58.5,2026-01-05T20:28:46.693Z,US
+C00567,U1650,DE,Germany,Berlin,Europe/Berlin,desktop,127.1,2026-03-13T20:13:37.197Z,PL
+C00568,U1537,DE,Germany,Berlin,Europe/Berlin,desktop,104.1,2026-01-21T14:04:20.090Z,NL
+C00569,U1325,GB,United Kingdom,London,Europe/London,desktop,98.5,2026-04-10T19:52:17.865Z,SE
+C00570,U1055,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,90.3,2026-04-03T01:43:17.457Z,CA
+C00571,U1651,GB,United Kingdom,London,Europe/London,desktop,96.8,2026-04-07T19:55:18.593Z,PL
+C00572,U1462,IN,India,Mumbai,Asia/Kolkata,desktop,69.3,2026-02-12T18:00:42.398Z,AU
+C00573,U1099,JP,Japan,Tokyo,Asia/Tokyo,desktop,117.5,2026-02-13T11:03:32.770Z,KR
+C00574,U1024,JP,Japan,Tokyo,Asia/Tokyo,tablet,102.7,2026-03-31T18:32:40.910Z,SG
+C00575,U1724,KR,South Korea,Seoul,Asia/Seoul,mobile,63.2,2026-02-03T07:59:52.415Z,ZA
+C00576,U1319,GB,United Kingdom,London,Europe/London,desktop,96.9,2026-04-22T06:41:16.531Z,IT
+C00577,U1510,IN,India,Mumbai,Asia/Kolkata,desktop,73.4,2026-01-11T03:30:31.953Z,AU
+C00578,U1483,AU,Australia,Sydney,Australia/Sydney,mobile,65,2026-01-11T00:15:38.197Z,SG
+C00579,U1319,DE,Germany,Berlin,Europe/Berlin,desktop,100.3,2026-02-04T12:42:41.423Z,NL
+C00580,U1137,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,89.5,2026-03-14T07:10:00.038Z,MX
+C00581,U1700,US,United States,New York,America/New_York,mobile,57.3,2026-04-28T18:35:58.411Z,MX
+C00582,U1597,US,United States,New York,America/New_York,desktop,72,2026-02-25T15:51:39.493Z,BR
+C00583,U1003,FR,France,Paris,Europe/Paris,mobile,55.3,2026-03-04T18:00:37.341Z,DE
+C00584,U1201,ES,Spain,Madrid,Europe/Madrid,desktop,71.1,2026-04-15T16:21:56.103Z,SE
+C00585,U1695,DE,Germany,Berlin,Europe/Berlin,desktop,111.8,2026-04-08T17:21:59.927Z,SE
+C00586,U1556,CA,Canada,Toronto,America/Toronto,tablet,54.6,2026-01-19T04:01:51.813Z,BR
+C00587,U1344,IN,India,Mumbai,Asia/Kolkata,mobile,32.3,2026-02-25T03:26:42.707Z,SG
+C00588,U1635,IN,India,Mumbai,Asia/Kolkata,mobile,39.5,2026-03-27T04:23:36.375Z,JP
+C00589,U1767,FR,France,Paris,Europe/Paris,tablet,55.9,2026-02-20T21:53:42.594Z,SE
+C00590,U1436,US,United States,New York,America/New_York,mobile,46.2,2026-04-15T09:05:56.124Z,MX
+C00591,U1372,GB,United Kingdom,London,Europe/London,tablet,77,2026-01-07T10:46:06.023Z,SE
+C00592,U1559,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,112.2,2026-02-12T14:21:58.417Z,IT
+C00593,U1457,MX,Mexico,Mexico City,America/Mexico_City,tablet,56,2026-01-26T23:11:58.392Z,BR
+C00594,U1521,US,United States,New York,America/New_York,tablet,61.8,2026-04-30T20:45:10.649Z,NL
+C00595,U1487,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,92.2,2026-03-05T14:21:17.247Z,IT
+C00596,U1325,AU,Australia,Sydney,Australia/Sydney,mobile,37.1,2026-03-20T13:02:26.389Z,DE
+C00597,U1485,CA,Canada,Toronto,America/Toronto,mobile,53,2026-01-27T01:53:59.490Z,BR
+C00598,U1386,DE,Germany,Berlin,Europe/Berlin,desktop,112.1,2026-02-11T21:56:01.242Z,IT
+C00599,U1604,IN,India,Mumbai,Asia/Kolkata,desktop,92.7,2026-01-04T15:37:05.483Z,JP
+C00600,U1517,AU,Australia,Sydney,Australia/Sydney,mobile,53.4,2026-01-24T17:59:38.815Z,ZA
+C00601,U1472,DE,Germany,Berlin,Europe/Berlin,mobile,83,2026-01-15T01:31:31.233Z,IT
+C00602,U1167,AU,Australia,Sydney,Australia/Sydney,desktop,100.5,2026-02-11T20:03:06.751Z,GB
+C00603,U1147,US,United States,New York,America/New_York,mobile,28.9,2026-03-23T19:20:40.485Z,BR
+C00604,U1669,IN,India,Mumbai,Asia/Kolkata,desktop,77.7,2026-02-15T14:22:00.748Z,BR
+C00605,U1222,GB,United Kingdom,London,Europe/London,mobile,44.6,2026-02-21T01:00:47.365Z,FR
+C00606,U1252,KR,South Korea,Seoul,Asia/Seoul,tablet,67.6,2026-04-19T20:27:17.181Z,AU
+C00607,U1639,IN,India,Mumbai,Asia/Kolkata,desktop,92.5,2026-01-17T00:22:30.716Z,AU
+C00608,U1295,GB,United Kingdom,London,Europe/London,desktop,88.7,2026-01-31T02:22:06.147Z,IT
+C00609,U1282,IN,India,Mumbai,Asia/Kolkata,desktop,65.8,2026-04-11T01:36:17.635Z,JP
+C00610,U1175,GB,United Kingdom,London,Europe/London,mobile,60.4,2026-04-20T04:43:44.919Z,NL
+C00611,U1320,FR,France,Paris,Europe/Paris,mobile,51.3,2026-01-31T23:59:23.344Z,IT
+C00612,U1429,AU,Australia,Sydney,Australia/Sydney,desktop,94.1,2026-04-30T14:43:24.513Z,IT
+C00613,U1169,US,United States,New York,America/New_York,desktop,74.2,2026-01-15T19:47:07.629Z,CA
+C00614,U1297,US,United States,New York,America/New_York,mobile,36.9,2026-02-02T08:58:45.886Z,MX
+C00615,U1243,GB,United Kingdom,London,Europe/London,mobile,54.2,2026-02-17T11:32:13.363Z,DE
+C00616,U1015,DE,Germany,Berlin,Europe/Berlin,desktop,123,2026-02-25T23:34:21.190Z,SE
+C00617,U1646,IN,India,Mumbai,Asia/Kolkata,mobile,31,2026-03-23T04:16:01.561Z,SG
+C00618,U1239,ES,Spain,Madrid,Europe/Madrid,mobile,38.5,2026-02-20T15:31:12.303Z,DE
+C00619,U1324,AU,Australia,Sydney,Australia/Sydney,desktop,97.1,2026-01-31T14:55:15.317Z,SG
+C00620,U1000,US,United States,New York,America/New_York,desktop,74.5,2026-02-22T22:53:44.638Z,MX
+C00621,U1658,AU,Australia,Sydney,Australia/Sydney,mobile,37.3,2026-04-29T00:39:08.767Z,JP
+C00622,U1545,DE,Germany,Berlin,Europe/Berlin,desktop,120.5,2026-03-14T17:26:31.972Z,AU
+C00623,U1231,AU,Australia,Sydney,Australia/Sydney,desktop,87.5,2026-02-07T03:18:12.712Z,IN
+C00624,U1750,JP,Japan,Tokyo,Asia/Tokyo,mobile,54.7,2026-04-08T04:45:59.867Z,SG
+C00625,U1242,CA,Canada,Toronto,America/Toronto,desktop,82.1,2026-04-19T09:42:09.879Z,MX
+C00626,U1066,MX,Mexico,Mexico City,America/Mexico_City,desktop,65.3,2026-03-08T18:09:01.663Z,JP
+C00627,U1059,DE,Germany,Berlin,Europe/Berlin,desktop,107.4,2026-03-11T06:11:27.511Z,IT
+C00628,U1495,US,United States,New York,America/New_York,desktop,68.5,2026-02-02T07:30:46.812Z,MX
+C00629,U1328,IT,Italy,Rome,Europe/Rome,mobile,60.8,2026-04-11T11:53:15.153Z,GB
+C00630,U1334,US,United States,New York,America/New_York,desktop,81,2026-03-07T04:58:51.395Z,CA
+C00631,U1657,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,115.7,2026-04-12T23:50:24.675Z,ES
+C00632,U1790,US,United States,New York,America/New_York,desktop,71,2026-04-08T00:35:56.876Z,BR
+C00633,U1256,IN,India,Mumbai,Asia/Kolkata,desktop,71.1,2026-04-19T05:40:50.490Z,JP
+C00634,U1418,DE,Germany,Berlin,Europe/Berlin,desktop,110.5,2026-04-06T03:58:09.515Z,FR
+C00635,U1096,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,46.1,2026-04-09T23:00:23.060Z,US
+C00636,U1450,IT,Italy,Rome,Europe/Rome,desktop,71.7,2026-01-07T05:08:49.479Z,SG
+C00637,U1794,GB,United Kingdom,London,Europe/London,desktop,100,2026-02-26T09:26:30.505Z,PL
+C00638,U1773,DE,Germany,Berlin,Europe/Berlin,mobile,88.3,2026-01-03T00:54:03.874Z,PL
+C00639,U1569,DE,Germany,Berlin,Europe/Berlin,desktop,100.8,2026-01-26T00:34:53.044Z,NL
+C00640,U1328,SG,Singapore,Singapore,Asia/Singapore,mobile,72,2026-03-07T09:43:07.510Z,IN
+C00641,U1768,DE,Germany,Berlin,Europe/Berlin,mobile,88.8,2026-02-23T14:22:39.711Z,GB
+C00642,U1630,US,United States,New York,America/New_York,mobile,60,2026-01-12T02:35:50.102Z,IT
+C00643,U1461,ES,Spain,Madrid,Europe/Madrid,desktop,102.9,2026-02-13T09:04:25.709Z,DE
+C00644,U1124,KR,South Korea,Seoul,Asia/Seoul,mobile,84.7,2026-04-03T11:33:43.699Z,ZA
+C00645,U1179,US,United States,New York,America/New_York,desktop,94.6,2026-04-29T16:52:09.678Z,MX
+C00646,U1735,CA,Canada,Toronto,America/Toronto,desktop,70.9,2026-01-26T03:52:29.768Z,MX
+C00647,U1101,US,United States,New York,America/New_York,desktop,96.7,2026-01-17T03:16:31.568Z,CA
+C00648,U1734,US,United States,New York,America/New_York,mobile,44.9,2026-04-13T09:16:09.455Z,MX
+C00649,U1220,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,96.4,2026-01-07T19:04:11.151Z,CA
+C00650,U1526,DE,Germany,Berlin,Europe/Berlin,desktop,103.5,2026-02-21T17:43:20.040Z,GB
+C00651,U1175,US,United States,New York,America/New_York,desktop,95.4,2026-03-24T17:14:20.848Z,MX
+C00652,U1788,AU,Australia,Sydney,Australia/Sydney,mobile,40.1,2026-03-14T20:37:13.182Z,SG
+C00653,U1305,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,94.1,2026-01-20T12:23:28.513Z,MX
+C00654,U1315,IN,India,Mumbai,Asia/Kolkata,desktop,96.8,2026-03-25T23:06:45.157Z,JP
+C00655,U1182,US,United States,New York,America/New_York,mobile,47.5,2026-04-30T15:38:54.957Z,BR
+C00656,U1202,ES,Spain,Madrid,Europe/Madrid,mobile,54.2,2026-04-13T21:31:19.316Z,AU
+C00657,U1230,CA,Canada,Toronto,America/Toronto,desktop,71.2,2026-02-03T01:42:53.448Z,BR
+C00658,U1458,SG,Singapore,Singapore,Asia/Singapore,mobile,85.8,2026-01-10T03:49:34.917Z,IN
+C00659,U1404,DE,Germany,Berlin,Europe/Berlin,mobile,57.9,2026-02-26T20:14:36.667Z,SE
+C00660,U1277,US,United States,New York,America/New_York,mobile,25.6,2026-04-03T10:27:22.833Z,MX
+C00661,U1101,US,United States,New York,America/New_York,desktop,85.5,2026-03-21T04:25:52.540Z,MX
+C00662,U1707,DE,Germany,Berlin,Europe/Berlin,desktop,93.4,2026-03-31T06:20:06.472Z,IT
+C00663,U1632,PL,Poland,Warsaw,Europe/Warsaw,desktop,89.3,2026-01-25T23:22:54.149Z,FR
+C00664,U1196,IN,India,Mumbai,Asia/Kolkata,mobile,58.2,2026-03-13T12:17:07.628Z,IT
+C00665,U1223,GB,United Kingdom,London,Europe/London,mobile,61.5,2026-03-03T20:29:54.874Z,CA
+C00666,U1554,JP,Japan,Tokyo,Asia/Tokyo,mobile,73.4,2026-03-01T07:46:30.208Z,IN
+C00667,U1197,US,United States,New York,America/New_York,desktop,69.6,2026-03-16T13:04:33.958Z,KR
+C00668,U1787,ES,Spain,Madrid,Europe/Madrid,desktop,85.5,2026-03-06T17:40:13.875Z,PL
+C00669,U1531,DE,Germany,Berlin,Europe/Berlin,mobile,81.3,2026-04-20T03:48:33.492Z,NL
+C00670,U1000,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,47.1,2026-01-30T01:56:04.013Z,ZA
+C00671,U1409,IN,India,Mumbai,Asia/Kolkata,desktop,81.2,2026-04-13T09:56:09.807Z,NL
+C00672,U1672,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,56.7,2026-04-30T15:06:25.842Z,CA
+C00673,U1445,ES,Spain,Madrid,Europe/Madrid,tablet,73.3,2026-03-06T13:29:31.849Z,BR
+C00674,U1688,IN,India,Mumbai,Asia/Kolkata,desktop,70,2026-03-18T11:30:13.095Z,KR
+C00675,U1775,US,United States,New York,America/New_York,tablet,48.6,2026-02-18T08:47:36.414Z,AU
+C00676,U1566,PL,Poland,Warsaw,Europe/Warsaw,mobile,37.5,2026-03-18T10:31:43.301Z,DE
+C00677,U1612,US,United States,New York,America/New_York,desktop,83.4,2026-01-13T03:03:27.624Z,BR
+C00678,U1642,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,42.1,2026-01-20T18:13:58.945Z,MX
+C00679,U1647,GB,United Kingdom,London,Europe/London,tablet,78.8,2026-01-30T23:21:52.463Z,PL
+C00680,U1499,DE,Germany,Berlin,Europe/Berlin,desktop,95,2026-04-13T16:23:41.902Z,SE
+C00681,U1018,US,United States,New York,America/New_York,desktop,65.9,2026-02-13T00:05:05.986Z,MX
+C00682,U1071,US,United States,New York,America/New_York,mobile,59.3,2026-03-18T15:00:35.913Z,CA
+C00683,U1201,FR,France,Paris,Europe/Paris,mobile,50.7,2026-01-25T14:20:14.799Z,SE
+C00684,U1588,IN,India,Mumbai,Asia/Kolkata,mobile,35.2,2026-03-30T19:03:12.386Z,FR
+C00685,U1644,KR,South Korea,Seoul,Asia/Seoul,mobile,83.8,2026-02-07T07:03:04.936Z,JP
+C00686,U1473,KR,South Korea,Seoul,Asia/Seoul,desktop,118.4,2026-03-09T21:04:31.116Z,ZA
+C00687,U1728,ES,Spain,Madrid,Europe/Madrid,tablet,57.1,2026-01-12T21:47:22.162Z,FR
+C00688,U1605,CA,Canada,Toronto,America/Toronto,tablet,71.8,2026-04-30T16:57:12.247Z,DE
+C00689,U1135,US,United States,New York,America/New_York,desktop,67.8,2026-01-11T23:40:13.280Z,BR
+C00690,U1509,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,79.9,2026-02-13T11:34:22.406Z,CA
+C00691,U1670,JP,Japan,Tokyo,Asia/Tokyo,mobile,62.3,2026-03-01T10:02:39.130Z,AU
+C00692,U1469,US,United States,New York,America/New_York,mobile,54.1,2026-04-01T15:13:35.640Z,BR
+C00693,U1363,GB,United Kingdom,London,Europe/London,mobile,53.3,2026-01-18T00:21:29.598Z,NL
+C00694,U1363,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,52.2,2026-04-29T20:13:12.486Z,MX
+C00695,U1453,US,United States,New York,America/New_York,mobile,45.1,2026-03-19T10:23:41.355Z,MX
+C00696,U1631,IN,India,Mumbai,Asia/Kolkata,mobile,60.2,2026-03-06T18:36:12.271Z,AU
+C00697,U1669,DE,Germany,Berlin,Europe/Berlin,mobile,66.4,2026-04-01T19:47:41.067Z,SE
+C00698,U1698,US,United States,New York,America/New_York,mobile,35.3,2026-02-13T12:05:14.836Z,MX
+C00699,U1486,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,55.5,2026-03-22T23:23:20.014Z,NL
+C00700,U1258,PL,Poland,Warsaw,Europe/Warsaw,desktop,86.1,2026-01-20T11:41:19.320Z,IT
+C00701,U1660,DE,Germany,Berlin,Europe/Berlin,mobile,88.7,2026-01-26T01:54:33.913Z,GB
+C00702,U1377,SE,Sweden,Stockholm,Europe/Stockholm,desktop,91.6,2026-01-25T21:27:55.303Z,NL
+C00703,U1274,US,United States,New York,America/New_York,tablet,44.1,2026-03-18T13:51:53.942Z,NL
+C00704,U1274,DE,Germany,Berlin,Europe/Berlin,desktop,95.4,2026-02-24T22:24:57.361Z,PL
+C00705,U1173,CA,Canada,Toronto,America/Toronto,tablet,69.3,2026-01-06T03:57:31.203Z,BR
+C00706,U1460,DE,Germany,Berlin,Europe/Berlin,desktop,104.6,2026-03-22T11:27:09.944Z,ES
+C00707,U1691,JP,Japan,Tokyo,Asia/Tokyo,desktop,109.2,2026-01-21T07:44:48.574Z,US
+C00708,U1440,GB,United Kingdom,London,Europe/London,mobile,27.9,2026-02-27T15:13:57.887Z,ES
+C00709,U1560,KR,South Korea,Seoul,Asia/Seoul,tablet,96.6,2026-02-21T00:10:16.401Z,SG
+C00710,U1380,DE,Germany,Berlin,Europe/Berlin,desktop,93.5,2026-03-20T05:44:32.045Z,AU
+C00711,U1654,JP,Japan,Tokyo,Asia/Tokyo,mobile,54.1,2026-01-31T04:34:18.691Z,KR
+C00712,U1437,JP,Japan,Tokyo,Asia/Tokyo,desktop,102.5,2026-04-22T23:21:20.968Z,SG
+C00713,U1621,IN,India,Mumbai,Asia/Kolkata,desktop,66.6,2026-01-01T19:20:25.646Z,JP
+C00714,U1476,KR,South Korea,Seoul,Asia/Seoul,desktop,101.8,2026-01-13T01:47:44.062Z,ES
+C00715,U1313,IN,India,Mumbai,Asia/Kolkata,mobile,32.4,2026-01-08T15:06:36.183Z,PL
+C00716,U1438,SG,Singapore,Singapore,Asia/Singapore,mobile,86.2,2026-02-15T04:53:45.740Z,GB
+C00717,U1394,GB,United Kingdom,London,Europe/London,tablet,50.6,2026-03-01T23:21:07.263Z,FR
+C00718,U1770,IN,India,Mumbai,Asia/Kolkata,tablet,40.5,2026-03-15T10:56:16.746Z,SG
+C00719,U1766,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,99.1,2026-01-16T04:43:12.506Z,CA
+C00720,U1375,JP,Japan,Tokyo,Asia/Tokyo,tablet,100.7,2026-04-25T12:46:52.087Z,DE
+C00721,U1272,DE,Germany,Berlin,Europe/Berlin,desktop,100.3,2026-04-16T21:21:56.847Z,FR
+C00722,U1019,JP,Japan,Tokyo,Asia/Tokyo,mobile,63.3,2026-02-18T11:20:18.355Z,FR
+C00723,U1136,US,United States,New York,America/New_York,desktop,80.9,2026-02-13T21:31:32.534Z,CA
+C00724,U1606,JP,Japan,Tokyo,Asia/Tokyo,mobile,59.3,2026-04-25T21:12:22.073Z,IN
+C00725,U1369,ES,Spain,Madrid,Europe/Madrid,desktop,82.9,2026-01-28T19:45:05.286Z,PL
+C00726,U1081,US,United States,New York,America/New_York,mobile,32.9,2026-04-11T07:44:19.474Z,CA
+C00727,U1546,US,United States,New York,America/New_York,mobile,57.7,2026-03-15T05:36:18.257Z,CA
+C00728,U1177,DE,Germany,Berlin,Europe/Berlin,desktop,119.7,2026-03-07T13:21:03.836Z,GB
+C00729,U1070,US,United States,New York,America/New_York,desktop,99.9,2026-04-06T02:01:57.244Z,BR
+C00730,U1090,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,57.7,2026-02-21T14:05:17.622Z,ES
+C00731,U1206,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,89.2,2026-01-11T18:05:01.062Z,NL
+C00732,U1371,GB,United Kingdom,London,Europe/London,desktop,71.3,2026-01-11T03:45:42.013Z,FR
+C00733,U1399,CA,Canada,Toronto,America/Toronto,desktop,101.1,2026-03-01T12:52:32.424Z,BR
+C00734,U1436,US,United States,New York,America/New_York,desktop,101.4,2026-02-14T21:26:43.725Z,BR
+C00735,U1100,JP,Japan,Tokyo,Asia/Tokyo,mobile,66.9,2026-01-09T15:24:18.866Z,MX
+C00736,U1100,IN,India,Mumbai,Asia/Kolkata,mobile,41.2,2026-03-17T23:05:40.533Z,AU
+C00737,U1691,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,58.9,2026-04-01T21:07:18.529Z,CA
+C00738,U1798,MX,Mexico,Mexico City,America/Mexico_City,desktop,91.8,2026-04-24T05:31:58.106Z,SG
+C00739,U1100,US,United States,New York,America/New_York,desktop,75.4,2026-01-20T05:18:26.862Z,BR
+C00740,U1071,KR,South Korea,Seoul,Asia/Seoul,tablet,88.8,2026-01-03T06:31:13.922Z,CA
+C00741,U1555,MX,Mexico,Mexico City,America/Mexico_City,mobile,56.3,2026-02-16T20:57:32.142Z,BR
+C00742,U1419,ES,Spain,Madrid,Europe/Madrid,desktop,84.8,2026-02-01T11:11:43.402Z,FR
+C00743,U1033,PL,Poland,Warsaw,Europe/Warsaw,desktop,66.4,2026-01-25T14:03:13.706Z,NL
+C00744,U1451,KR,South Korea,Seoul,Asia/Seoul,desktop,99.2,2026-04-17T16:48:05.487Z,SG
+C00745,U1672,FR,France,Paris,Europe/Paris,desktop,65.1,2026-02-15T19:12:36.154Z,ES
+C00746,U1699,DE,Germany,Berlin,Europe/Berlin,desktop,117.1,2026-01-19T11:46:48.953Z,CA
+C00747,U1384,KR,South Korea,Seoul,Asia/Seoul,desktop,128.1,2026-04-07T21:35:30.827Z,JP
+C00748,U1798,JP,Japan,Tokyo,Asia/Tokyo,mobile,51.5,2026-03-10T07:42:50.651Z,SG
+C00749,U1298,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,41.5,2026-01-22T08:36:32.343Z,US
+C00750,U1392,FR,France,Paris,Europe/Paris,desktop,87.5,2026-04-02T14:28:01.898Z,GB
+C00751,U1280,SE,Sweden,Stockholm,Europe/Stockholm,mobile,71.5,2026-04-06T02:15:00.271Z,FR
+C00752,U1686,IN,India,Mumbai,Asia/Kolkata,desktop,93.2,2026-01-16T09:20:29.081Z,BR
+C00753,U1344,CA,Canada,Toronto,America/Toronto,desktop,76.1,2026-03-12T01:27:28.891Z,BR
+C00754,U1710,MX,Mexico,Mexico City,America/Mexico_City,mobile,41.6,2026-03-19T14:59:41.731Z,DE
+C00755,U1408,ES,Spain,Madrid,Europe/Madrid,desktop,100.9,2026-01-26T21:25:15.693Z,PL
+C00756,U1187,US,United States,New York,America/New_York,tablet,59.8,2026-04-01T21:25:35.789Z,FR
+C00757,U1255,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,98.1,2026-04-29T14:22:34.322Z,PL
+C00758,U1225,NL,Netherlands,Amsterdam,Europe/Amsterdam,tablet,72.6,2026-04-09T10:38:44.053Z,FR
+C00759,U1178,JP,Japan,Tokyo,Asia/Tokyo,desktop,93.6,2026-01-16T05:38:09.025Z,KR
+C00760,U1737,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,118.3,2026-04-28T05:42:03.234Z,GB
+C00761,U1683,GB,United Kingdom,London,Europe/London,mobile,52.6,2026-03-11T01:38:01.120Z,ES
+C00762,U1232,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,80.4,2026-04-16T03:47:15.935Z,PL
+C00763,U1671,KR,South Korea,Seoul,Asia/Seoul,mobile,88.3,2026-01-25T16:16:28.451Z,US
+C00764,U1583,IT,Italy,Rome,Europe/Rome,desktop,90.7,2026-04-04T18:03:24.362Z,SE
+C00765,U1792,KR,South Korea,Seoul,Asia/Seoul,mobile,81.9,2026-03-06T03:41:45.216Z,AU
+C00766,U1048,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,56.9,2026-03-28T09:21:54.158Z,ZA
+C00767,U1278,GB,United Kingdom,London,Europe/London,desktop,75.9,2026-02-27T14:41:45.284Z,ES
+C00768,U1784,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,102.4,2026-03-07T17:54:38.833Z,ZA
+C00769,U1711,US,United States,New York,America/New_York,desktop,88.3,2026-04-12T09:03:52.105Z,BR
+C00770,U1292,US,United States,New York,America/New_York,mobile,26.1,2026-04-06T23:28:30.721Z,BR
+C00771,U1132,CA,Canada,Toronto,America/Toronto,desktop,86.7,2026-04-09T22:18:19.206Z,BR
+C00772,U1189,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,90,2026-01-10T20:16:36.316Z,ES
+C00773,U1713,US,United States,New York,America/New_York,mobile,35.8,2026-01-29T21:38:47.147Z,BR
+C00774,U1075,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,73.8,2026-02-07T21:18:58.831Z,FR
+C00775,U1451,IT,Italy,Rome,Europe/Rome,mobile,35.3,2026-01-22T05:14:16.240Z,PL
+C00776,U1627,DE,Germany,Berlin,Europe/Berlin,desktop,115.4,2026-01-21T11:13:18.434Z,NL
+C00777,U1295,IN,India,Mumbai,Asia/Kolkata,mobile,47.3,2026-04-16T14:47:06.987Z,AU
+C00778,U1753,DE,Germany,Berlin,Europe/Berlin,tablet,79.2,2026-01-11T10:10:00.222Z,PL
+C00779,U1035,DE,Germany,Berlin,Europe/Berlin,mobile,87.8,2026-04-19T03:45:55.147Z,ES
+C00780,U1398,GB,United Kingdom,London,Europe/London,desktop,75.6,2026-02-05T13:59:41.944Z,FR
+C00781,U1340,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,103.7,2026-03-18T17:24:26.821Z,US
+C00782,U1705,IN,India,Mumbai,Asia/Kolkata,desktop,85.5,2026-02-10T18:48:02.212Z,IT
+C00783,U1001,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,26.8,2026-03-30T18:41:56.093Z,DE
+C00784,U1749,FR,France,Paris,Europe/Paris,tablet,48.7,2026-01-11T16:02:58.732Z,SE
+C00785,U1020,US,United States,New York,America/New_York,mobile,32,2026-01-26T19:16:34.264Z,MX
+C00786,U1603,KR,South Korea,Seoul,Asia/Seoul,mobile,55.8,2026-03-11T00:16:51.776Z,AU
+C00787,U1057,GB,United Kingdom,London,Europe/London,tablet,45.3,2026-03-04T07:04:54.216Z,DE
+C00788,U1183,US,United States,New York,America/New_York,desktop,87.5,2026-04-12T17:19:01.320Z,ZA
+C00789,U1232,KR,South Korea,Seoul,Asia/Seoul,desktop,129.7,2026-03-05T21:54:21.863Z,IN
+C00790,U1718,US,United States,New York,America/New_York,desktop,71.7,2026-04-11T07:19:57.609Z,BR
+C00791,U1678,CA,Canada,Toronto,America/Toronto,mobile,53.6,2026-04-04T03:48:14.193Z,BR
+C00792,U1680,ES,Spain,Madrid,Europe/Madrid,mobile,27.3,2026-04-15T02:14:20.879Z,PL
+C00793,U1449,BR,Brazil,São Paulo,America/Sao_Paulo,tablet,62.9,2026-01-21T10:31:16.112Z,KR
+C00794,U1557,US,United States,New York,America/New_York,mobile,62,2026-04-30T06:06:49.858Z,BR
+C00795,U1163,DE,Germany,Berlin,Europe/Berlin,mobile,82.6,2026-03-11T11:23:51.795Z,SE
+C00796,U1775,IN,India,Mumbai,Asia/Kolkata,mobile,43.1,2026-01-09T19:11:38.435Z,SG
+C00797,U1414,NL,Netherlands,Amsterdam,Europe/Amsterdam,tablet,70.6,2026-04-12T06:47:02.604Z,SE
+C00798,U1788,JP,Japan,Tokyo,Asia/Tokyo,tablet,87.4,2026-02-09T13:17:13.333Z,AU
+C00799,U1709,US,United States,New York,America/New_York,tablet,68.6,2026-03-22T03:43:32.444Z,ES
+C00800,U1240,IN,India,Mumbai,Asia/Kolkata,desktop,95.1,2026-03-12T01:21:30.632Z,SG
+C00801,U1417,MX,Mexico,Mexico City,America/Mexico_City,tablet,40.8,2026-04-24T08:01:20.017Z,US
+C00802,U1786,GB,United Kingdom,London,Europe/London,mobile,33.6,2026-03-08T22:55:48.766Z,ES
+C00803,U1248,GB,United Kingdom,London,Europe/London,desktop,76,2026-03-25T14:37:10.651Z,FR
+C00804,U1443,US,United States,New York,America/New_York,desktop,100.5,2026-04-22T21:30:36.679Z,MX
+C00805,U1224,AU,Australia,Sydney,Australia/Sydney,mobile,45.1,2026-02-06T05:22:20.383Z,FR
+C00806,U1167,SG,Singapore,Singapore,Asia/Singapore,mobile,53.9,2026-01-11T14:29:46.118Z,KR
+C00807,U1665,MX,Mexico,Mexico City,America/Mexico_City,desktop,76.8,2026-01-11T16:16:58.129Z,US
+C00808,U1477,IN,India,Mumbai,Asia/Kolkata,mobile,38.2,2026-04-23T21:08:52.836Z,KR
+C00809,U1478,US,United States,New York,America/New_York,mobile,37.3,2026-04-03T23:25:00.311Z,CA
+C00810,U1481,DE,Germany,Berlin,Europe/Berlin,mobile,56.1,2026-04-23T05:11:14.663Z,GB
+C00811,U1161,PL,Poland,Warsaw,Europe/Warsaw,desktop,99,2026-04-28T07:57:04.934Z,DE
+C00812,U1442,JP,Japan,Tokyo,Asia/Tokyo,mobile,58.7,2026-03-03T20:28:27.880Z,SG
+C00813,U1648,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,72.8,2026-04-20T04:26:22.717Z,US
+C00814,U1051,DE,Germany,Berlin,Europe/Berlin,mobile,81.7,2026-01-13T18:51:43.655Z,US
+C00815,U1502,PL,Poland,Warsaw,Europe/Warsaw,tablet,49.3,2026-03-01T04:27:53.493Z,IN
+C00816,U1655,ES,Spain,Madrid,Europe/Madrid,mobile,38.9,2026-01-10T18:11:42.217Z,NL
+C00817,U1074,JP,Japan,Tokyo,Asia/Tokyo,desktop,110.9,2026-03-27T15:34:06.583Z,IN
+C00818,U1633,IN,India,Mumbai,Asia/Kolkata,mobile,31.2,2026-02-05T14:48:23.431Z,KR
+C00819,U1401,SE,Sweden,Stockholm,Europe/Stockholm,desktop,97.9,2026-02-26T22:05:02.731Z,IT
+C00820,U1145,ES,Spain,Madrid,Europe/Madrid,desktop,74,2026-01-07T08:19:51.413Z,SE
+C00821,U1193,CA,Canada,Toronto,America/Toronto,tablet,75.1,2026-03-31T01:48:27.919Z,US
+C00822,U1407,PL,Poland,Warsaw,Europe/Warsaw,tablet,55.9,2026-01-06T16:08:08.106Z,NL
+C00823,U1071,ES,Spain,Madrid,Europe/Madrid,mobile,36.3,2026-04-04T08:22:06.827Z,CA
+C00824,U1490,US,United States,New York,America/New_York,desktop,83.6,2026-02-02T05:46:27.273Z,MX
+C00825,U1550,MX,Mexico,Mexico City,America/Mexico_City,desktop,76.7,2026-01-21T06:25:17.237Z,CA
+C00826,U1307,JP,Japan,Tokyo,Asia/Tokyo,mobile,64.8,2026-01-22T13:13:53.786Z,IN
+C00827,U1686,ES,Spain,Madrid,Europe/Madrid,tablet,73.3,2026-04-03T12:00:42.162Z,GB
+C00828,U1681,SG,Singapore,Singapore,Asia/Singapore,tablet,71.1,2026-04-13T10:16:37.876Z,KR
+C00829,U1282,GB,United Kingdom,London,Europe/London,mobile,49.1,2026-02-15T13:09:05.400Z,CA
+C00830,U1692,FR,France,Paris,Europe/Paris,mobile,25.5,2026-02-01T21:41:49.802Z,AU
+C00831,U1641,AU,Australia,Sydney,Australia/Sydney,mobile,48.4,2026-03-09T08:51:14.852Z,IN
+C00832,U1290,JP,Japan,Tokyo,Asia/Tokyo,mobile,72.6,2026-03-13T11:11:54.909Z,KR
+C00833,U1495,GB,United Kingdom,London,Europe/London,mobile,64.1,2026-02-05T23:19:03.199Z,ZA
+C00834,U1013,ES,Spain,Madrid,Europe/Madrid,desktop,66.4,2026-02-21T15:18:57.329Z,SE
+C00835,U1653,GB,United Kingdom,London,Europe/London,mobile,27.6,2026-03-28T09:44:22.146Z,ES
+C00836,U1712,GB,United Kingdom,London,Europe/London,mobile,32.5,2026-01-12T03:55:28.641Z,FR
+C00837,U1494,ES,Spain,Madrid,Europe/Madrid,desktop,85.6,2026-01-10T11:53:28.961Z,GB
+C00838,U1306,US,United States,New York,America/New_York,desktop,66.5,2026-02-17T05:22:27.740Z,BR
+C00839,U1187,IT,Italy,Rome,Europe/Rome,mobile,54.7,2026-01-15T03:14:51.669Z,GB
+C00840,U1482,ES,Spain,Madrid,Europe/Madrid,mobile,62.4,2026-04-24T00:36:01.739Z,SE
+C00841,U1675,US,United States,New York,America/New_York,mobile,25.2,2026-04-05T21:53:19.896Z,DE
+C00842,U1179,ES,Spain,Madrid,Europe/Madrid,mobile,59.2,2026-02-10T11:57:37.369Z,SE
+C00843,U1339,GB,United Kingdom,London,Europe/London,mobile,41.6,2026-01-22T23:11:27.256Z,SE
+C00844,U1641,SE,Sweden,Stockholm,Europe/Stockholm,desktop,103.7,2026-01-02T03:28:11.181Z,GB
+C00845,U1473,PL,Poland,Warsaw,Europe/Warsaw,tablet,65.6,2026-02-01T17:33:29.176Z,DE
+C00846,U1536,KR,South Korea,Seoul,Asia/Seoul,mobile,72.7,2026-04-03T03:02:53.204Z,IN
+C00847,U1642,US,United States,New York,America/New_York,mobile,52.5,2026-01-05T06:02:11.073Z,MX
+C00848,U1070,IN,India,Mumbai,Asia/Kolkata,mobile,46.3,2026-03-03T11:03:56.241Z,JP
+C00849,U1148,IT,Italy,Rome,Europe/Rome,mobile,42.3,2026-03-27T05:34:04.540Z,PL
+C00850,U1237,GB,United Kingdom,London,Europe/London,mobile,55.5,2026-02-27T14:21:40.041Z,DE
+C00851,U1230,FR,France,Paris,Europe/Paris,desktop,69.7,2026-02-25T06:02:18.089Z,NL
+C00852,U1469,DE,Germany,Berlin,Europe/Berlin,mobile,56.1,2026-02-16T18:48:16.255Z,SE
+C00853,U1790,US,United States,New York,America/New_York,desktop,75.5,2026-03-06T20:17:13.165Z,CA
+C00854,U1007,GB,United Kingdom,London,Europe/London,desktop,90.6,2026-02-03T00:51:57.507Z,DE
+C00855,U1581,MX,Mexico,Mexico City,America/Mexico_City,mobile,62.6,2026-02-21T07:02:22.243Z,BR
+C00856,U1017,JP,Japan,Tokyo,Asia/Tokyo,desktop,112.9,2026-02-06T20:53:59.439Z,SG
+C00857,U1782,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,78.8,2026-04-04T08:41:30.993Z,JP
+C00858,U1385,GB,United Kingdom,London,Europe/London,desktop,91,2026-01-07T10:33:29.823Z,NL
+C00859,U1549,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,98.2,2026-01-18T20:06:53.197Z,ZA
+C00860,U1316,US,United States,New York,America/New_York,desktop,104.2,2026-03-08T10:03:58.661Z,BR
+C00861,U1426,US,United States,New York,America/New_York,desktop,100.4,2026-04-06T12:20:13.567Z,MX
+C00862,U1033,KR,South Korea,Seoul,Asia/Seoul,mobile,52.7,2026-01-12T05:16:45.923Z,SE
+C00863,U1733,GB,United Kingdom,London,Europe/London,mobile,25.6,2026-01-06T23:56:54.461Z,PL
+C00864,U1142,US,United States,New York,America/New_York,desktop,90.2,2026-03-07T04:29:39.390Z,MX
+C00865,U1509,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,69.1,2026-02-17T16:23:17.774Z,US
+C00866,U1476,IN,India,Mumbai,Asia/Kolkata,desktop,99.7,2026-04-29T19:06:05.737Z,SG
+C00867,U1335,US,United States,New York,America/New_York,desktop,99.1,2026-04-12T12:12:37.361Z,MX
+C00868,U1571,CA,Canada,Toronto,America/Toronto,mobile,45,2026-01-06T23:03:02.529Z,MX
+C00869,U1164,AU,Australia,Sydney,Australia/Sydney,desktop,80.9,2026-04-03T19:30:21.675Z,KR
+C00870,U1634,US,United States,New York,America/New_York,mobile,59.7,2026-03-21T07:56:10.558Z,CA
+C00871,U1789,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,57.8,2026-01-05T17:28:54.556Z,ZA
+C00872,U1269,JP,Japan,Tokyo,Asia/Tokyo,tablet,98.3,2026-03-02T11:36:36.876Z,SG
+C00873,U1206,KR,South Korea,Seoul,Asia/Seoul,mobile,51.2,2026-01-22T20:08:37.109Z,IN
+C00874,U1764,GB,United Kingdom,London,Europe/London,desktop,81.3,2026-04-21T14:22:23.021Z,DE
+C00875,U1476,MX,Mexico,Mexico City,America/Mexico_City,desktop,101.4,2026-01-09T06:35:07.930Z,US
+C00876,U1626,MX,Mexico,Mexico City,America/Mexico_City,mobile,59.9,2026-03-30T07:26:39.486Z,BR
+C00877,U1565,MX,Mexico,Mexico City,America/Mexico_City,desktop,83.6,2026-03-13T20:13:19.621Z,IT
+C00878,U1425,DE,Germany,Berlin,Europe/Berlin,desktop,94.9,2026-04-05T05:10:29.817Z,KR
+C00879,U1628,US,United States,New York,America/New_York,tablet,74.4,2026-01-03T20:08:02.472Z,CA
+C00880,U1493,AU,Australia,Sydney,Australia/Sydney,desktop,89.7,2026-02-06T02:28:29.851Z,JP
+C00881,U1533,IN,India,Mumbai,Asia/Kolkata,mobile,34.3,2026-01-06T04:49:43.639Z,SG
+C00882,U1286,KR,South Korea,Seoul,Asia/Seoul,desktop,110.2,2026-02-27T10:14:03.649Z,IN
+C00883,U1171,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,108.5,2026-03-28T11:25:22.396Z,PL
+C00884,U1757,JP,Japan,Tokyo,Asia/Tokyo,desktop,96.7,2026-04-03T22:17:58.301Z,AU
+C00885,U1300,DE,Germany,Berlin,Europe/Berlin,mobile,59.9,2026-01-28T10:07:12.577Z,IT
+C00886,U1485,US,United States,New York,America/New_York,mobile,32.8,2026-02-19T01:04:33.302Z,MX
+C00887,U1709,SG,Singapore,Singapore,Asia/Singapore,mobile,63.6,2026-02-06T10:33:40.716Z,JP
+C00888,U1187,JP,Japan,Tokyo,Asia/Tokyo,desktop,128.6,2026-02-09T00:12:51.452Z,AU
+C00889,U1432,IT,Italy,Rome,Europe/Rome,mobile,44.1,2026-03-20T15:30:20.133Z,SE
+C00890,U1232,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,106.5,2026-04-03T00:14:55.760Z,PL
+C00891,U1627,KR,South Korea,Seoul,Asia/Seoul,desktop,129.6,2026-01-23T13:42:59.957Z,AU
+C00892,U1716,SE,Sweden,Stockholm,Europe/Stockholm,mobile,57.1,2026-02-20T09:19:16.006Z,NL
+C00893,U1095,MX,Mexico,Mexico City,America/Mexico_City,mobile,27.9,2026-03-20T06:13:06.442Z,US
+C00894,U1093,IN,India,Mumbai,Asia/Kolkata,mobile,61.9,2026-04-06T20:59:25.310Z,AU
+C00895,U1544,IN,India,Mumbai,Asia/Kolkata,mobile,62.4,2026-01-13T02:59:57.691Z,AU
+C00896,U1583,KR,South Korea,Seoul,Asia/Seoul,mobile,52.6,2026-03-12T15:43:47.718Z,JP
+C00897,U1673,PL,Poland,Warsaw,Europe/Warsaw,desktop,69.7,2026-01-11T16:09:28.422Z,SE
+C00898,U1236,ES,Spain,Madrid,Europe/Madrid,desktop,72.1,2026-02-25T14:22:54.926Z,GB
+C00899,U1288,CA,Canada,Toronto,America/Toronto,desktop,67.1,2026-04-14T11:11:02.753Z,JP
+C00900,U1411,FR,France,Paris,Europe/Paris,mobile,25.7,2026-02-11T07:11:50.840Z,DE
+C00901,U1633,GB,United Kingdom,London,Europe/London,desktop,69.9,2026-02-07T23:53:05.805Z,JP
+C00902,U1539,ES,Spain,Madrid,Europe/Madrid,desktop,102.5,2026-03-20T03:25:28.775Z,IT
+C00903,U1086,IN,India,Mumbai,Asia/Kolkata,desktop,68.9,2026-03-10T08:27:03.798Z,AU
+C00904,U1449,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,95.3,2026-01-20T15:09:59.839Z,FR
+C00905,U1331,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,70.7,2026-04-17T17:09:29.275Z,SE
+C00906,U1360,SE,Sweden,Stockholm,Europe/Stockholm,mobile,64.7,2026-03-31T09:00:28.102Z,FR
+C00907,U1338,US,United States,New York,America/New_York,mobile,58.4,2026-03-15T06:13:02.518Z,ZA
+C00908,U1334,KR,South Korea,Seoul,Asia/Seoul,desktop,116.7,2026-04-22T11:43:08.089Z,NL
+C00909,U1123,US,United States,New York,America/New_York,desktop,101.3,2026-04-23T12:44:00.926Z,MX
+C00910,U1203,MX,Mexico,Mexico City,America/Mexico_City,desktop,88.7,2026-04-26T17:35:22.910Z,DE
+C00911,U1586,IN,India,Mumbai,Asia/Kolkata,tablet,44.2,2026-04-02T03:00:36.275Z,KR
+C00912,U1028,AU,Australia,Sydney,Australia/Sydney,tablet,67.3,2026-02-19T20:27:52.405Z,KR
+C00913,U1524,NL,Netherlands,Amsterdam,Europe/Amsterdam,tablet,97.4,2026-04-09T01:11:51.767Z,PL
+C00914,U1546,MX,Mexico,Mexico City,America/Mexico_City,tablet,64.1,2026-03-09T10:08:49.476Z,US
+C00915,U1312,JP,Japan,Tokyo,Asia/Tokyo,mobile,71.8,2026-04-10T00:36:51.407Z,SG
+C00916,U1608,DE,Germany,Berlin,Europe/Berlin,mobile,74.6,2026-03-06T16:39:51.053Z,NL
+C00917,U1709,DE,Germany,Berlin,Europe/Berlin,mobile,53.9,2026-04-11T22:47:08.405Z,GB
+C00918,U1489,SE,Sweden,Stockholm,Europe/Stockholm,desktop,94,2026-03-01T22:14:13.711Z,ES
+C00919,U1432,AU,Australia,Sydney,Australia/Sydney,mobile,58,2026-01-04T19:32:46.504Z,GB
+C00920,U1192,MX,Mexico,Mexico City,America/Mexico_City,desktop,83.4,2026-03-08T06:48:42.099Z,CA
+C00921,U1536,GB,United Kingdom,London,Europe/London,mobile,28.7,2026-03-09T01:45:38.605Z,FR
+C00922,U1588,JP,Japan,Tokyo,Asia/Tokyo,desktop,103.4,2026-03-23T06:51:09.302Z,AU
+C00923,U1739,SE,Sweden,Stockholm,Europe/Stockholm,desktop,107.6,2026-03-18T18:48:42.515Z,IT
+C00924,U1147,MX,Mexico,Mexico City,America/Mexico_City,desktop,97.3,2026-01-06T02:50:26.254Z,BR
+C00925,U1506,FR,France,Paris,Europe/Paris,tablet,59.9,2026-03-25T13:27:40.040Z,IT
+C00926,U1208,DE,Germany,Berlin,Europe/Berlin,desktop,128.9,2026-02-13T22:29:22.265Z,FR
+C00927,U1729,US,United States,New York,America/New_York,mobile,61.5,2026-01-02T01:48:44.343Z,MX
+C00928,U1799,SG,Singapore,Singapore,Asia/Singapore,desktop,124.4,2026-01-07T10:00:18.141Z,JP
+C00929,U1654,SG,Singapore,Singapore,Asia/Singapore,desktop,105.4,2026-03-01T00:56:10.365Z,IT
+C00930,U1476,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,82.4,2026-03-04T14:04:12.762Z,MX
+C00931,U1501,CA,Canada,Toronto,America/Toronto,mobile,46.3,2026-03-24T13:44:10.884Z,MX
+C00932,U1315,DE,Germany,Berlin,Europe/Berlin,desktop,109.9,2026-03-13T17:16:46.770Z,FR
+C00933,U1540,GB,United Kingdom,London,Europe/London,desktop,104.7,2026-02-01T02:53:50.917Z,IT
+C00934,U1587,DE,Germany,Berlin,Europe/Berlin,mobile,75.5,2026-02-16T02:30:59.290Z,CA
+C00935,U1300,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,59.2,2026-01-03T05:02:52.872Z,ZA
+C00936,U1386,GB,United Kingdom,London,Europe/London,mobile,35.4,2026-01-02T10:22:28.958Z,FR
+C00937,U1642,IN,India,Mumbai,Asia/Kolkata,desktop,83.3,2026-04-08T21:14:56.250Z,JP
+C00938,U1331,MX,Mexico,Mexico City,America/Mexico_City,tablet,50.4,2026-04-29T13:50:33.635Z,CA
+C00939,U1774,DE,Germany,Berlin,Europe/Berlin,desktop,127.5,2026-03-23T05:11:03.029Z,ES
+C00940,U1754,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,73.7,2026-01-21T22:33:11.820Z,KR
+C00941,U1425,DE,Germany,Berlin,Europe/Berlin,mobile,54.6,2026-02-19T01:53:05.455Z,IN
+C00942,U1253,IN,India,Mumbai,Asia/Kolkata,desktop,71,2026-01-29T11:27:56.847Z,SG
+C00943,U1418,IT,Italy,Rome,Europe/Rome,mobile,58.2,2026-01-24T03:12:16.208Z,GB
+C00944,U1363,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,81.6,2026-04-08T00:57:40.350Z,CA
+C00945,U1628,DE,Germany,Berlin,Europe/Berlin,mobile,66.2,2026-04-12T08:50:22.557Z,ES
+C00946,U1542,US,United States,New York,America/New_York,mobile,59.9,2026-03-31T18:31:47.971Z,CA
+C00947,U1017,KR,South Korea,Seoul,Asia/Seoul,mobile,55.3,2026-03-11T14:14:23.931Z,IN
+C00948,U1338,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,55.9,2026-03-05T00:15:35.584Z,ZA
+C00949,U1077,US,United States,New York,America/New_York,desktop,77.5,2026-01-09T18:39:43.290Z,MX
+C00950,U1411,MX,Mexico,Mexico City,America/Mexico_City,desktop,86,2026-01-16T08:17:24.576Z,US
+C00951,U1089,JP,Japan,Tokyo,Asia/Tokyo,tablet,72.7,2026-02-01T02:23:54.702Z,CA
+C00952,U1041,GB,United Kingdom,London,Europe/London,desktop,94.1,2026-01-07T07:05:32.964Z,IT
+C00953,U1126,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,62.4,2026-01-17T07:46:25.974Z,US
+C00954,U1018,SG,Singapore,Singapore,Asia/Singapore,desktop,102.7,2026-02-05T21:29:37.580Z,KR
+C00955,U1372,US,United States,New York,America/New_York,mobile,58.2,2026-02-09T15:16:20.459Z,MX
+C00956,U1473,MX,Mexico,Mexico City,America/Mexico_City,desktop,69.3,2026-01-16T22:29:15.616Z,US
+C00957,U1429,CA,Canada,Toronto,America/Toronto,mobile,37.2,2026-02-22T02:22:04.575Z,MX
+C00958,U1066,DE,Germany,Berlin,Europe/Berlin,desktop,91.9,2026-04-17T14:26:10.462Z,ES
+C00959,U1447,SE,Sweden,Stockholm,Europe/Stockholm,mobile,81.4,2026-04-02T22:22:24.516Z,GB
+C00960,U1619,KR,South Korea,Seoul,Asia/Seoul,mobile,58.9,2026-02-24T17:38:06.728Z,SG
+C00961,U1734,IN,India,Mumbai,Asia/Kolkata,tablet,44.7,2026-04-18T20:39:30.281Z,AU
+C00962,U1181,KR,South Korea,Seoul,Asia/Seoul,desktop,109.4,2026-01-10T18:53:41.407Z,AU
+C00963,U1699,US,United States,New York,America/New_York,mobile,25.7,2026-01-01T17:13:31.883Z,BR
+C00964,U1772,IN,India,Mumbai,Asia/Kolkata,mobile,36.6,2026-02-04T09:35:21.378Z,PL
+C00965,U1053,KR,South Korea,Seoul,Asia/Seoul,desktop,104.1,2026-01-10T14:25:02.941Z,AU
+C00966,U1008,GB,United Kingdom,London,Europe/London,mobile,50.9,2026-01-17T06:19:05.847Z,ES
+C00967,U1178,US,United States,New York,America/New_York,tablet,63.8,2026-04-21T19:07:38.370Z,CA
+C00968,U1661,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,128.1,2026-02-13T04:27:15.684Z,IT
+C00969,U1119,CA,Canada,Toronto,America/Toronto,desktop,72,2026-01-14T05:24:25.442Z,BR
+C00970,U1268,IT,Italy,Rome,Europe/Rome,desktop,93,2026-01-30T18:45:24.361Z,PL
+C00971,U1182,DE,Germany,Berlin,Europe/Berlin,mobile,89.4,2026-04-26T08:33:19.329Z,FR
+C00972,U1649,DE,Germany,Berlin,Europe/Berlin,mobile,79.2,2026-04-12T12:53:34.468Z,FR
+C00973,U1049,GB,United Kingdom,London,Europe/London,mobile,45.8,2026-02-14T19:27:42.530Z,NL
+C00974,U1767,ES,Spain,Madrid,Europe/Madrid,mobile,29.4,2026-04-16T10:27:56.780Z,PL
+C00975,U1509,KR,South Korea,Seoul,Asia/Seoul,mobile,81.4,2026-04-10T16:56:59.920Z,IN
+C00976,U1763,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,26.6,2026-03-06T07:01:02.369Z,ZA
+C00977,U1406,GB,United Kingdom,London,Europe/London,desktop,87.3,2026-03-23T05:39:24.729Z,SE
+C00978,U1372,IN,India,Mumbai,Asia/Kolkata,mobile,42.5,2026-01-20T20:18:43.983Z,AU
+C00979,U1560,DE,Germany,Berlin,Europe/Berlin,mobile,72.7,2026-04-18T18:11:26.646Z,BR
+C00980,U1352,IN,India,Mumbai,Asia/Kolkata,mobile,43.2,2026-04-10T13:45:00.894Z,JP
+C00981,U1106,CA,Canada,Toronto,America/Toronto,mobile,40.4,2026-01-01T08:39:31.858Z,US
+C00982,U1491,PL,Poland,Warsaw,Europe/Warsaw,desktop,85.1,2026-03-29T10:44:43.241Z,FR
+C00983,U1517,ES,Spain,Madrid,Europe/Madrid,desktop,71.1,2026-04-23T16:05:09.310Z,BR
+C00984,U1669,US,United States,New York,America/New_York,mobile,56.9,2026-02-20T14:03:06.810Z,CA
+C00985,U1079,KR,South Korea,Seoul,Asia/Seoul,mobile,77.9,2026-01-15T19:44:07.936Z,IN
+C00986,U1172,US,United States,New York,America/New_York,desktop,99.8,2026-03-18T22:28:59.773Z,CA
+C00987,U1468,JP,Japan,Tokyo,Asia/Tokyo,desktop,122.6,2026-03-31T17:47:48.421Z,KR
+C00988,U1057,SG,Singapore,Singapore,Asia/Singapore,desktop,112.3,2026-03-21T20:38:04.792Z,AU
+C00989,U1624,US,United States,New York,America/New_York,mobile,56.6,2026-03-27T02:35:06.560Z,BR
+C00990,U1351,SE,Sweden,Stockholm,Europe/Stockholm,desktop,92.3,2026-02-02T13:12:01.167Z,DE
+C00991,U1048,KR,South Korea,Seoul,Asia/Seoul,mobile,88.6,2026-03-01T04:48:24.226Z,JP
+C00992,U1545,JP,Japan,Tokyo,Asia/Tokyo,desktop,107.6,2026-02-26T01:49:07.663Z,MX
+C00993,U1496,US,United States,New York,America/New_York,desktop,77.6,2026-02-26T00:23:39.987Z,MX
+C00994,U1782,SG,Singapore,Singapore,Asia/Singapore,desktop,116.4,2026-01-14T14:53:34.803Z,IN
+C00995,U1336,GB,United Kingdom,London,Europe/London,desktop,95.1,2026-04-22T12:09:33.308Z,ES
+C00996,U1527,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,91.1,2026-02-24T15:12:54.108Z,MX
+C00997,U1440,IN,India,Mumbai,Asia/Kolkata,desktop,76,2026-01-09T19:10:50.242Z,SG
+C00998,U1491,GB,United Kingdom,London,Europe/London,desktop,95.6,2026-03-03T14:10:00.318Z,NL
+C00999,U1745,IN,India,Mumbai,Asia/Kolkata,desktop,65.1,2026-01-14T17:41:54.615Z,KR
+C01000,U1788,US,United States,New York,America/New_York,tablet,50.2,2026-04-02T07:14:15.239Z,BR
+C01001,U1201,PL,Poland,Warsaw,Europe/Warsaw,desktop,75.3,2026-01-15T06:36:11.030Z,IT
+C01002,U1702,US,United States,New York,America/New_York,tablet,41.3,2026-02-06T08:58:52.620Z,MX
+C01003,U1141,KR,South Korea,Seoul,Asia/Seoul,desktop,113.7,2026-03-29T12:59:02.572Z,SG
+C01004,U1040,DE,Germany,Berlin,Europe/Berlin,desktop,109.5,2026-04-14T03:22:53.004Z,SE
+C01005,U1207,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,86.7,2026-01-20T00:30:08.343Z,ES
+C01006,U1409,CA,Canada,Toronto,America/Toronto,desktop,89.1,2026-01-09T00:42:21.905Z,MX
+C01007,U1776,CA,Canada,Toronto,America/Toronto,desktop,93.1,2026-01-15T22:28:40.478Z,BR
+C01008,U1167,US,United States,New York,America/New_York,desktop,74.8,2026-03-23T06:06:43.951Z,NL
+C01009,U1773,JP,Japan,Tokyo,Asia/Tokyo,desktop,96.1,2026-02-22T05:44:02.350Z,KR
+C01010,U1163,DE,Germany,Berlin,Europe/Berlin,desktop,101.5,2026-01-31T23:40:56.920Z,ES
+C01011,U1092,ZA,South Africa,Cape Town,Africa/Johannesburg,desktop,87.9,2026-02-09T22:46:24.486Z,FR
+C01012,U1134,JP,Japan,Tokyo,Asia/Tokyo,desktop,109.9,2026-01-14T11:47:33.778Z,IN
+C01013,U1116,IN,India,Mumbai,Asia/Kolkata,mobile,51.5,2026-04-10T06:34:40.939Z,JP
+C01014,U1625,GB,United Kingdom,London,Europe/London,desktop,70.3,2026-04-15T13:04:21.726Z,FR
+C01015,U1473,US,United States,New York,America/New_York,mobile,45.9,2026-01-21T18:05:43.859Z,SE
+C01016,U1440,ES,Spain,Madrid,Europe/Madrid,mobile,28.4,2026-02-13T19:21:31.396Z,PL
+C01017,U1500,GB,United Kingdom,London,Europe/London,desktop,79.5,2026-03-20T17:01:34.156Z,ES
+C01018,U1308,IT,Italy,Rome,Europe/Rome,mobile,48.4,2026-02-10T19:53:22.951Z,NL
+C01019,U1597,FR,France,Paris,Europe/Paris,desktop,94.9,2026-02-27T13:39:14.517Z,SE
+C01020,U1404,IN,India,Mumbai,Asia/Kolkata,desktop,69.8,2026-01-17T06:47:19.173Z,SG
+C01021,U1571,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,48.3,2026-01-01T22:10:43.309Z,CA
+C01022,U1082,DE,Germany,Berlin,Europe/Berlin,mobile,78.3,2026-04-05T16:13:54.814Z,SE
+C01023,U1191,AU,Australia,Sydney,Australia/Sydney,mobile,62.5,2026-01-03T11:49:26.410Z,KR
+C01024,U1513,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,71,2026-01-13T04:09:38.361Z,FR
+C01025,U1620,JP,Japan,Tokyo,Asia/Tokyo,desktop,120.1,2026-02-10T00:48:53.778Z,SG
+C01026,U1196,SE,Sweden,Stockholm,Europe/Stockholm,mobile,60.9,2026-02-13T20:55:19.135Z,IT
+C01027,U1246,US,United States,New York,America/New_York,desktop,70.9,2026-01-03T13:52:43.695Z,MX
+C01028,U1542,DE,Germany,Berlin,Europe/Berlin,desktop,92.1,2026-02-13T20:26:08.640Z,GB
+C01029,U1484,GB,United Kingdom,London,Europe/London,mobile,60.6,2026-01-28T21:48:24.584Z,CA
+C01030,U1732,DE,Germany,Berlin,Europe/Berlin,desktop,120.5,2026-02-22T03:34:01.598Z,IN
+C01031,U1598,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,40,2026-02-25T09:47:57.808Z,US
+C01032,U1529,GB,United Kingdom,London,Europe/London,desktop,89.8,2026-01-04T23:03:04.238Z,FR
+C01033,U1462,US,United States,New York,America/New_York,desktop,76.7,2026-02-09T12:18:35.956Z,MX
+C01034,U1130,NL,Netherlands,Amsterdam,Europe/Amsterdam,mobile,87.2,2026-01-03T15:08:13.563Z,SE
+C01035,U1463,GB,United Kingdom,London,Europe/London,tablet,52.5,2026-02-23T16:15:35.409Z,ES
+C01036,U1325,MX,Mexico,Mexico City,America/Mexico_City,desktop,81.2,2026-03-29T05:33:29.439Z,US
+C01037,U1104,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,26.2,2026-04-28T22:10:27.145Z,ZA
+C01038,U1207,DE,Germany,Berlin,Europe/Berlin,mobile,50.1,2026-02-13T16:59:15.878Z,ES
+C01039,U1303,US,United States,New York,America/New_York,mobile,28,2026-01-25T00:41:25.005Z,CA
+C01040,U1763,SE,Sweden,Stockholm,Europe/Stockholm,desktop,99.3,2026-02-09T04:02:48.352Z,NL
+C01041,U1758,ES,Spain,Madrid,Europe/Madrid,desktop,79.8,2026-02-17T14:50:45.533Z,GB
+C01042,U1136,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,58.9,2026-04-13T02:49:46.933Z,MX
+C01043,U1790,GB,United Kingdom,London,Europe/London,mobile,30.2,2026-02-17T23:07:35.050Z,PL
+C01044,U1608,GB,United Kingdom,London,Europe/London,desktop,98.5,2026-03-13T03:14:26.279Z,ES
+C01045,U1738,JP,Japan,Tokyo,Asia/Tokyo,mobile,78.1,2026-02-21T08:28:47.492Z,IN
+C01046,U1569,GB,United Kingdom,London,Europe/London,desktop,83.4,2026-01-08T08:24:47.814Z,KR
+C01047,U1618,MX,Mexico,Mexico City,America/Mexico_City,mobile,29.9,2026-01-22T10:19:28.993Z,SG
+C01048,U1638,US,United States,New York,America/New_York,desktop,68.6,2026-03-23T07:55:57.134Z,CA
+C01049,U1142,SE,Sweden,Stockholm,Europe/Stockholm,mobile,53.9,2026-02-12T05:06:46.042Z,IT
+C01050,U1694,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,79.4,2026-01-27T17:51:01.129Z,ZA
+C01051,U1601,CA,Canada,Toronto,America/Toronto,mobile,27,2026-04-22T03:56:12.371Z,FR
+C01052,U1144,AU,Australia,Sydney,Australia/Sydney,desktop,94.5,2026-04-20T12:03:58.765Z,SG
+C01053,U1412,IT,Italy,Rome,Europe/Rome,mobile,60.9,2026-03-27T11:28:48.137Z,AU
+C01054,U1466,IN,India,Mumbai,Asia/Kolkata,desktop,93.3,2026-01-31T13:09:51.285Z,KR
+C01055,U1442,US,United States,New York,America/New_York,desktop,79.8,2026-03-20T10:52:56.496Z,ZA
+C01056,U1063,US,United States,New York,America/New_York,mobile,35.8,2026-01-24T22:57:04.658Z,KR
+C01057,U1167,SG,Singapore,Singapore,Asia/Singapore,desktop,129.8,2026-01-18T05:51:49.054Z,IN
+C01058,U1511,IN,India,Mumbai,Asia/Kolkata,mobile,44.8,2026-01-23T09:40:17.522Z,AU
+C01059,U1364,PL,Poland,Warsaw,Europe/Warsaw,mobile,56.7,2026-03-29T02:17:21.604Z,MX
+C01060,U1035,MX,Mexico,Mexico City,America/Mexico_City,mobile,33.7,2026-04-16T13:07:05.943Z,BR
+C01061,U1342,IN,India,Mumbai,Asia/Kolkata,desktop,91.8,2026-01-10T03:29:48.020Z,AU
+C01062,U1147,SG,Singapore,Singapore,Asia/Singapore,desktop,110.2,2026-04-28T20:31:19.434Z,KR
+C01063,U1624,IN,India,Mumbai,Asia/Kolkata,mobile,37.4,2026-04-09T20:12:59.960Z,KR
+C01064,U1281,CA,Canada,Toronto,America/Toronto,desktop,101.1,2026-03-14T05:52:43.615Z,BR
+C01065,U1288,GB,United Kingdom,London,Europe/London,desktop,104.4,2026-04-09T09:22:22.690Z,ZA
+C01066,U1312,FR,France,Paris,Europe/Paris,mobile,43.8,2026-04-17T07:08:42.024Z,PL
+C01067,U1371,IN,India,Mumbai,Asia/Kolkata,desktop,75.8,2026-02-27T20:08:44.256Z,AU
+C01068,U1334,US,United States,New York,America/New_York,mobile,41.9,2026-04-05T04:15:45.235Z,GB
+C01069,U1196,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,119.2,2026-02-04T18:35:31.799Z,IT
+C01070,U1523,CA,Canada,Toronto,America/Toronto,mobile,40.9,2026-02-03T20:41:02.265Z,BR
+C01071,U1335,IT,Italy,Rome,Europe/Rome,desktop,87.7,2026-04-08T16:50:10.675Z,FR
+C01072,U1649,JP,Japan,Tokyo,Asia/Tokyo,desktop,107.9,2026-04-01T08:36:45.834Z,IN
+C01073,U1768,ES,Spain,Madrid,Europe/Madrid,mobile,61.8,2026-04-23T22:27:15.678Z,IT
+C01074,U1537,GB,United Kingdom,London,Europe/London,desktop,77.2,2026-04-01T21:41:31.445Z,NL
+C01075,U1511,US,United States,New York,America/New_York,desktop,67.8,2026-01-03T21:44:54.973Z,FR
+C01076,U1437,CA,Canada,Toronto,America/Toronto,desktop,92,2026-03-26T01:53:37.051Z,US
+C01077,U1471,JP,Japan,Tokyo,Asia/Tokyo,tablet,68.2,2026-03-13T13:20:30.458Z,NL
+C01078,U1161,PL,Poland,Warsaw,Europe/Warsaw,mobile,51.5,2026-01-29T11:05:02.009Z,GB
+C01079,U1212,GB,United Kingdom,London,Europe/London,mobile,25.3,2026-01-15T03:15:06.168Z,IN
+C01080,U1745,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,43.4,2026-01-11T01:27:38.301Z,CA
+C01081,U1199,ES,Spain,Madrid,Europe/Madrid,desktop,84.8,2026-02-16T07:58:56.364Z,NL
+C01082,U1302,FR,France,Paris,Europe/Paris,desktop,90.1,2026-02-19T07:22:53.619Z,PL
+C01083,U1448,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,110.5,2026-03-13T10:52:21.280Z,SE
+C01084,U1556,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,37,2026-03-23T16:15:36.127Z,CA
+C01085,U1498,ES,Spain,Madrid,Europe/Madrid,mobile,53.6,2026-03-11T17:27:57.426Z,AU
+C01086,U1787,US,United States,New York,America/New_York,tablet,46.4,2026-02-01T12:02:59.697Z,BR
+C01087,U1224,US,United States,New York,America/New_York,mobile,48.6,2026-02-28T03:16:47.420Z,MX
+C01088,U1592,GB,United Kingdom,London,Europe/London,desktop,83.5,2026-01-24T10:43:19.803Z,SE
+C01089,U1195,SG,Singapore,Singapore,Asia/Singapore,mobile,55.7,2026-04-23T17:34:54.211Z,AU
+C01090,U1296,US,United States,New York,America/New_York,desktop,102.6,2026-01-11T20:54:00.749Z,ZA
+C01091,U1452,IN,India,Mumbai,Asia/Kolkata,mobile,41.5,2026-02-09T18:43:32.184Z,AU
+C01092,U1258,AU,Australia,Sydney,Australia/Sydney,mobile,57.4,2026-03-07T05:47:07.023Z,IN
+C01093,U1151,CA,Canada,Toronto,America/Toronto,mobile,55.1,2026-03-10T14:29:14.644Z,AU
+C01094,U1090,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,61.2,2026-01-18T16:51:06.268Z,ZA
+C01095,U1274,AU,Australia,Sydney,Australia/Sydney,desktop,91.2,2026-01-22T23:34:20.675Z,KR
+C01096,U1797,CA,Canada,Toronto,America/Toronto,mobile,40.2,2026-04-20T22:13:34.880Z,US
+C01097,U1332,ES,Spain,Madrid,Europe/Madrid,mobile,35.7,2026-01-13T04:18:18.853Z,DE
+C01098,U1007,SE,Sweden,Stockholm,Europe/Stockholm,tablet,82.4,2026-02-17T17:14:51.201Z,NL
+C01099,U1260,ZA,South Africa,Cape Town,Africa/Johannesburg,mobile,28.4,2026-04-16T17:15:12.785Z,MX
+C01100,U1248,IT,Italy,Rome,Europe/Rome,mobile,46.1,2026-01-26T11:28:47.700Z,GB
+C01101,U1077,SG,Singapore,Singapore,Asia/Singapore,desktop,128.7,2026-04-13T15:26:07.874Z,KR
+C01102,U1792,DE,Germany,Berlin,Europe/Berlin,mobile,74.6,2026-01-31T09:15:58.454Z,CA
+C01103,U1002,CA,Canada,Toronto,America/Toronto,desktop,102.4,2026-04-15T07:12:32.537Z,GB
+C01104,U1185,PL,Poland,Warsaw,Europe/Warsaw,tablet,46.8,2026-03-31T12:56:44.921Z,GB
+C01105,U1667,SE,Sweden,Stockholm,Europe/Stockholm,mobile,87.3,2026-03-12T16:44:45.997Z,MX
+C01106,U1419,US,United States,New York,America/New_York,desktop,70.7,2026-03-27T16:56:10.775Z,CA
+C01107,U1204,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,78.5,2026-03-24T20:51:14.996Z,DE
+C01108,U1158,US,United States,New York,America/New_York,tablet,42.1,2026-02-04T10:10:27.125Z,AU
+C01109,U1292,DE,Germany,Berlin,Europe/Berlin,desktop,97.8,2026-02-16T16:07:14.086Z,PL
+C01110,U1353,JP,Japan,Tokyo,Asia/Tokyo,tablet,83.6,2026-01-10T13:16:09.576Z,KR
+C01111,U1179,FR,France,Paris,Europe/Paris,mobile,46.3,2026-03-19T12:23:40.209Z,NL
+C01112,U1495,ES,Spain,Madrid,Europe/Madrid,desktop,79.1,2026-02-23T11:11:56.041Z,PL
+C01113,U1237,IN,India,Mumbai,Asia/Kolkata,desktop,91.3,2026-02-24T12:51:13.366Z,JP
+C01114,U1604,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,45.2,2026-01-16T07:04:44.411Z,SG
+C01115,U1172,DE,Germany,Berlin,Europe/Berlin,desktop,124.6,2026-02-09T08:39:37.734Z,IT
+C01116,U1189,PL,Poland,Warsaw,Europe/Warsaw,mobile,42.2,2026-02-02T20:52:45.311Z,DE
+C01117,U1155,US,United States,New York,America/New_York,desktop,79.5,2026-03-09T12:31:14.998Z,CA
+C01118,U1401,US,United States,New York,America/New_York,desktop,67.7,2026-01-14T08:58:32.353Z,BR
+C01119,U1423,GB,United Kingdom,London,Europe/London,tablet,68.5,2026-01-31T13:02:25.381Z,SE
+C01120,U1495,CA,Canada,Toronto,America/Toronto,mobile,30.6,2026-02-18T08:06:39.735Z,MX
+C01121,U1798,IN,India,Mumbai,Asia/Kolkata,mobile,39.7,2026-04-06T23:23:48.759Z,MX
+C01122,U1277,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,49.2,2026-01-12T15:40:03.154Z,CA
+C01123,U1592,CA,Canada,Toronto,America/Toronto,mobile,48.2,2026-03-03T18:54:16.892Z,MX
+C01124,U1294,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,41.1,2026-04-11T18:07:13.775Z,US
+C01125,U1331,GB,United Kingdom,London,Europe/London,desktop,98.6,2026-02-13T10:04:22.276Z,ES
+C01126,U1780,FR,France,Paris,Europe/Paris,mobile,48.3,2026-04-08T09:26:48.039Z,GB
+C01127,U1184,KR,South Korea,Seoul,Asia/Seoul,tablet,74,2026-04-09T05:08:09.762Z,SG
+C01128,U1528,IN,India,Mumbai,Asia/Kolkata,mobile,54.3,2026-02-14T21:31:48.366Z,JP
+C01129,U1233,DE,Germany,Berlin,Europe/Berlin,desktop,111.5,2026-03-10T01:53:12.538Z,FR
+C01130,U1264,GB,United Kingdom,London,Europe/London,mobile,41,2026-02-11T00:48:40.858Z,NL
+C01131,U1789,IT,Italy,Rome,Europe/Rome,mobile,54.1,2026-03-22T14:04:11.362Z,ES
+C01132,U1798,CA,Canada,Toronto,America/Toronto,mobile,62.3,2026-03-14T04:20:28.597Z,US
+C01133,U1108,US,United States,New York,America/New_York,mobile,34.6,2026-01-10T21:29:18.802Z,CA
+C01134,U1720,SE,Sweden,Stockholm,Europe/Stockholm,desktop,119.5,2026-03-01T11:32:26.351Z,MX
+C01135,U1762,US,United States,New York,America/New_York,mobile,60.7,2026-02-27T17:17:47.762Z,ZA
+C01136,U1459,IN,India,Mumbai,Asia/Kolkata,tablet,43.1,2026-02-25T05:38:43.800Z,SG
+C01137,U1344,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,98.4,2026-01-29T10:38:38.398Z,IT
+C01138,U1708,CA,Canada,Toronto,America/Toronto,mobile,55.7,2026-04-14T18:17:09.523Z,MX
+C01139,U1011,ES,Spain,Madrid,Europe/Madrid,mobile,64.1,2026-02-26T00:07:40.658Z,SE
+C01140,U1238,US,United States,New York,America/New_York,desktop,88.6,2026-04-19T19:15:58.317Z,CA
+C01141,U1675,FR,France,Paris,Europe/Paris,mobile,57.8,2026-02-02T14:41:50.716Z,DE
+C01142,U1346,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,86.7,2026-04-02T18:00:07.361Z,US
+C01143,U1190,DE,Germany,Berlin,Europe/Berlin,mobile,54.1,2026-02-01T06:58:04.208Z,IT
+C01144,U1287,US,United States,New York,America/New_York,tablet,65.5,2026-04-01T12:42:09.528Z,MX
+C01145,U1710,IN,India,Mumbai,Asia/Kolkata,desktop,73,2026-01-12T21:18:43.703Z,AU
+C01146,U1488,GB,United Kingdom,London,Europe/London,mobile,55,2026-02-15T14:24:51.997Z,FR
+C01147,U1663,IN,India,Mumbai,Asia/Kolkata,mobile,31.8,2026-04-20T20:18:04.849Z,AU
+C01148,U1389,IN,India,Mumbai,Asia/Kolkata,desktop,96.2,2026-04-09T19:32:44.421Z,AU
+C01149,U1195,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,38.8,2026-03-20T21:11:08.924Z,US
+C01150,U1006,IN,India,Mumbai,Asia/Kolkata,tablet,44.7,2026-01-08T13:02:21.907Z,JP
+C01151,U1615,SG,Singapore,Singapore,Asia/Singapore,desktop,95,2026-03-04T21:51:26.127Z,AU
+C01152,U1557,SG,Singapore,Singapore,Asia/Singapore,mobile,52.5,2026-03-07T17:51:51.807Z,DE
+C01153,U1237,IT,Italy,Rome,Europe/Rome,mobile,40.2,2026-03-09T20:37:46.862Z,GB
+C01154,U1501,US,United States,New York,America/New_York,desktop,78.2,2026-02-28T09:39:12.048Z,CA
+C01155,U1087,DE,Germany,Berlin,Europe/Berlin,mobile,80.7,2026-03-30T14:15:07.723Z,PL
+C01156,U1131,ES,Spain,Madrid,Europe/Madrid,desktop,81.8,2026-01-17T02:15:43.643Z,PL
+C01157,U1430,US,United States,New York,America/New_York,mobile,32.2,2026-02-14T22:16:36.816Z,BR
+C01158,U1352,DE,Germany,Berlin,Europe/Berlin,desktop,91.2,2026-04-10T07:00:15.236Z,ES
+C01159,U1500,IN,India,Mumbai,Asia/Kolkata,mobile,51.3,2026-02-26T05:17:16.593Z,SG
+C01160,U1411,PL,Poland,Warsaw,Europe/Warsaw,desktop,75.9,2026-03-31T00:45:38.231Z,DE
+C01161,U1263,DE,Germany,Berlin,Europe/Berlin,tablet,97.9,2026-04-13T16:46:58.810Z,NL
+C01162,U1780,FR,France,Paris,Europe/Paris,desktop,96.5,2026-03-05T17:03:51.900Z,NL
+C01163,U1523,FR,France,Paris,Europe/Paris,desktop,66.4,2026-04-13T14:50:10.923Z,ES
+C01164,U1046,US,United States,New York,America/New_York,desktop,94.3,2026-03-29T16:48:52.828Z,CA
+C01165,U1044,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,114.7,2026-01-27T02:08:53.575Z,PL
+C01166,U1034,FR,France,Paris,Europe/Paris,mobile,37.3,2026-01-24T21:04:17.694Z,PL
+C01167,U1311,IN,India,Mumbai,Asia/Kolkata,desktop,67.1,2026-02-07T17:02:25.506Z,JP
+C01168,U1163,DE,Germany,Berlin,Europe/Berlin,desktop,125.7,2026-04-14T05:53:59.181Z,PL
+C01169,U1217,IN,India,Mumbai,Asia/Kolkata,mobile,44.9,2026-01-19T01:34:24.787Z,SG
+C01170,U1665,SE,Sweden,Stockholm,Europe/Stockholm,mobile,86,2026-02-08T13:43:01.675Z,FR
+C01171,U1286,ES,Spain,Madrid,Europe/Madrid,desktop,67.2,2026-02-11T01:39:57.384Z,NL
+C01172,U1742,US,United States,New York,America/New_York,tablet,69.6,2026-03-16T01:52:02.625Z,FR
+C01173,U1008,GB,United Kingdom,London,Europe/London,mobile,63.5,2026-02-06T00:11:41.251Z,KR
+C01174,U1452,MX,Mexico,Mexico City,America/Mexico_City,mobile,45.7,2026-03-13T00:48:56.584Z,CA
+C01175,U1579,US,United States,New York,America/New_York,mobile,47.3,2026-04-26T21:55:37.813Z,CA
+C01176,U1065,DE,Germany,Berlin,Europe/Berlin,tablet,100.8,2026-03-07T23:48:57.035Z,FR
+C01177,U1244,FR,France,Paris,Europe/Paris,desktop,89.8,2026-04-15T14:33:18.531Z,IT
+C01178,U1768,SE,Sweden,Stockholm,Europe/Stockholm,desktop,129.7,2026-01-23T08:38:30.856Z,NL
+C01179,U1112,DE,Germany,Berlin,Europe/Berlin,mobile,50.6,2026-02-18T09:51:15.372Z,ES
+C01180,U1259,GB,United Kingdom,London,Europe/London,tablet,52.5,2026-02-23T14:07:01.350Z,NL
+C01181,U1662,DE,Germany,Berlin,Europe/Berlin,desktop,94.8,2026-02-12T14:08:36.994Z,JP
+C01182,U1057,KR,South Korea,Seoul,Asia/Seoul,mobile,69.7,2026-04-17T10:53:15.503Z,SG
+C01183,U1348,BR,Brazil,São Paulo,America/Sao_Paulo,desktop,69.1,2026-03-01T12:29:37.559Z,MX
+C01184,U1078,CA,Canada,Toronto,America/Toronto,tablet,51.2,2026-02-22T12:47:45.276Z,ES
+C01185,U1627,JP,Japan,Tokyo,Asia/Tokyo,desktop,111.4,2026-03-16T17:56:07.584Z,CA
+C01186,U1444,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,90.9,2026-02-02T07:13:40.521Z,IT
+C01187,U1472,CA,Canada,Toronto,America/Toronto,mobile,39.7,2026-01-18T14:45:18.737Z,DE
+C01188,U1540,AU,Australia,Sydney,Australia/Sydney,mobile,30.9,2026-01-31T12:25:49.761Z,NL
+C01189,U1176,GB,United Kingdom,London,Europe/London,desktop,71.8,2026-03-05T01:14:41.872Z,ES
+C01190,U1280,GB,United Kingdom,London,Europe/London,desktop,70.4,2026-03-09T12:36:43.979Z,FR
+C01191,U1430,JP,Japan,Tokyo,Asia/Tokyo,mobile,85.2,2026-03-19T00:37:05.249Z,AU
+C01192,U1277,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,36,2026-04-06T22:00:32.856Z,PL
+C01193,U1161,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,56,2026-04-17T15:58:50.716Z,US
+C01194,U1295,CA,Canada,Toronto,America/Toronto,mobile,52.1,2026-04-09T16:49:48.653Z,BR
+C01195,U1265,DE,Germany,Berlin,Europe/Berlin,desktop,92.4,2026-02-28T16:10:33.611Z,ES
+C01196,U1435,NL,Netherlands,Amsterdam,Europe/Amsterdam,desktop,129.5,2026-01-13T14:00:15.890Z,FR
+C01197,U1187,BR,Brazil,São Paulo,America/Sao_Paulo,mobile,33.6,2026-04-19T02:58:00.429Z,SE
+C01198,U1388,JP,Japan,Tokyo,Asia/Tokyo,mobile,52.4,2026-04-15T23:10:17.965Z,SG
+C01199,U1418,PL,Poland,Warsaw,Europe/Warsaw,mobile,39.4,2026-04-09T13:28:11.431Z,SE
+C01200,U1066,US,United States,New York,America/New_York,tablet,60.1,2026-02-15T14:20:56.888Z,CA
