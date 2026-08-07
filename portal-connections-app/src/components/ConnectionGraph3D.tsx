@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import * as THREE from 'three'
+import { DragControls } from 'three/addons/controls/DragControls.js'
 import type { GraphData } from '../types'
 import { createSceneContext } from '../three/sceneContext'
 import { buildRelationGraph, removeRelationGraph } from '../three/relationGraph'
@@ -23,24 +24,60 @@ export function ConnectionGraph3D({ graph, totalConnections }: ConnectionGraph3D
     if (!container) return
 
     const context = createSceneContext(container)
-    const chart = buildRelationGraph(graph)
-    context.scene.add(chart)
+    const graphHandle = buildRelationGraph(graph)
+    context.scene.add(graphHandle.group)
 
     const raycaster = new THREE.Raycaster()
     const pointer = new THREE.Vector2()
-    const countryMeshes: THREE.Mesh[] = []
-    chart.traverse((child) => {
-      if (child instanceof THREE.Mesh && child.userData.kind === 'country') {
-        countryMeshes.push(child)
+    let isDragging = false
+
+    const dragControls = new DragControls(
+      graphHandle.countryMeshes,
+      context.camera,
+      context.renderer.domElement,
+    )
+    dragControls.transformGroup = false
+
+    dragControls.addEventListener('dragstart', (event) => {
+      isDragging = true
+      context.controls.enabled = false
+      const mesh = event.object as THREE.Mesh
+      if (mesh.userData.kind === 'country') {
+        const devices = mesh.userData.deviceCounts as Record<string, number>
+        setHover({
+          title: `${mesh.userData.name} (${mesh.userData.code})`,
+          lines: [
+            `Connections: ${mesh.userData.connectionCount}`,
+            `Avg speed: ${mesh.userData.avgSpeedMbps} Mbps`,
+            `Devices: ${devices.desktop} desktop · ${devices.mobile} mobile · ${devices.tablet} tablet`,
+            `Timezone: ${(mesh.userData.timezones as string[]).join(', ') || '—'}`,
+            'Dragging — relation lines follow this country',
+          ],
+        })
       }
+      context.renderer.domElement.style.cursor = 'grabbing'
+    })
+
+    dragControls.addEventListener('drag', (event) => {
+      const mesh = event.object as THREE.Mesh
+      if (mesh.userData.kind !== 'country') return
+      graphHandle.moveCountry(mesh.userData.code as string, mesh.position)
+    })
+
+    dragControls.addEventListener('dragend', () => {
+      isDragging = false
+      context.controls.enabled = true
+      context.renderer.domElement.style.cursor = 'grab'
     })
 
     const onPointerMove = (event: PointerEvent) => {
+      if (isDragging) return
+
       const rect = context.renderer.domElement.getBoundingClientRect()
       pointer.x = ((event.clientX - rect.left) / rect.width) * 2 - 1
       pointer.y = -((event.clientY - rect.top) / rect.height) * 2 + 1
       raycaster.setFromCamera(pointer, context.camera)
-      const hit = raycaster.intersectObjects(countryMeshes, false)[0]?.object
+      const hit = raycaster.intersectObjects(graphHandle.countryMeshes, false)[0]?.object
 
       if (hit instanceof THREE.Mesh && hit.userData.kind === 'country') {
         const devices = hit.userData.deviceCounts as Record<string, number>
@@ -53,7 +90,7 @@ export function ConnectionGraph3D({ graph, totalConnections }: ConnectionGraph3D
             `Timezone: ${(hit.userData.timezones as string[]).join(', ') || '—'}`,
           ],
         })
-        context.renderer.domElement.style.cursor = 'pointer'
+        context.renderer.domElement.style.cursor = 'grab'
       } else {
         setHover(null)
         context.renderer.domElement.style.cursor = 'grab'
@@ -67,6 +104,7 @@ export function ConnectionGraph3D({ graph, totalConnections }: ConnectionGraph3D
     return () => {
       window.removeEventListener('resize', onResize)
       context.renderer.domElement.removeEventListener('pointermove', onPointerMove)
+      dragControls.dispose()
       removeRelationGraph(context.scene)
       context.dispose()
     }
@@ -108,8 +146,8 @@ export function ConnectionGraph3D({ graph, totalConnections }: ConnectionGraph3D
 
       <div className="hint-bar">
         <span>Sphere size = connection volume</span>
-        <span>Lines = related-country links</span>
-        <span>Drag to rotate · Scroll to zoom</span>
+        <span>Drag a country ball — its relation lines follow</span>
+        <span>Empty space: rotate · Scroll: zoom</span>
       </div>
     </div>
   )
