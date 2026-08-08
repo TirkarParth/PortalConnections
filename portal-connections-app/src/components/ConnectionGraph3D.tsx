@@ -30,6 +30,7 @@ export function ConnectionGraph3D({ graph, totalConnections }: ConnectionGraph3D
     const raycaster = new THREE.Raycaster()
     const pointer = new THREE.Vector2()
     let isDragging = false
+    const dragPrevious = new THREE.Vector3()
 
     const dragControls = new DragControls(
       graphHandle.countryMeshes,
@@ -42,16 +43,19 @@ export function ConnectionGraph3D({ graph, totalConnections }: ConnectionGraph3D
       isDragging = true
       context.controls.enabled = false
       const mesh = event.object as THREE.Mesh
+      dragPrevious.copy(mesh.position)
       if (mesh.userData.kind === 'country') {
+        const code = mesh.userData.code as string
+        const linked = graphHandle.neighborsByCode.get(code)?.length ?? 0
         const devices = mesh.userData.deviceCounts as Record<string, number>
         setHover({
-          title: `${mesh.userData.name} (${mesh.userData.code})`,
+          title: `${mesh.userData.name} (${code})`,
           lines: [
             `Connections: ${mesh.userData.connectionCount}`,
             `Avg speed: ${mesh.userData.avgSpeedMbps} Mbps`,
             `Devices: ${devices.desktop} desktop · ${devices.mobile} mobile · ${devices.tablet} tablet`,
             `Timezone: ${(mesh.userData.timezones as string[]).join(', ') || '—'}`,
-            'Dragging — relation lines follow this country',
+            `Dragging with ${linked} linked ${linked === 1 ? 'country' : 'countries'}`,
           ],
         })
       }
@@ -61,7 +65,12 @@ export function ConnectionGraph3D({ graph, totalConnections }: ConnectionGraph3D
     dragControls.addEventListener('drag', (event) => {
       const mesh = event.object as THREE.Mesh
       if (mesh.userData.kind !== 'country') return
-      graphHandle.moveCountry(mesh.userData.code as string, mesh.position)
+      graphHandle.moveCountryCluster(
+        mesh.userData.code as string,
+        mesh.position,
+        dragPrevious,
+      )
+      dragPrevious.copy(mesh.position)
     })
 
     dragControls.addEventListener('dragend', () => {
@@ -146,7 +155,7 @@ export function ConnectionGraph3D({ graph, totalConnections }: ConnectionGraph3D
 
       <div className="hint-bar">
         <span>Sphere size = connection volume</span>
-        <span>Drag a country ball — its relation lines follow</span>
+        <span>Drag a country — linked countries move with it</span>
         <span>Empty space: rotate · Scroll: zoom</span>
       </div>
     </div>
