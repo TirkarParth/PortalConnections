@@ -23,7 +23,18 @@ export interface RelationGraphHandle {
   countryMeshes: THREE.Mesh[]
   nodesByCode: Map<string, CountryNodeObjects>
   relationLines: RelationLineObjects[]
+  /** Direct relation neighbors for each country code. */
+  neighborsByCode: Map<string, string[]>
   moveCountry: (code: string, position: THREE.Vector3) => void
+  /**
+   * Move a country and every directly related country by the same drag delta,
+   * keeping relation links attached to the moving cluster.
+   */
+  moveCountryCluster: (
+    code: string,
+    position: THREE.Vector3,
+    previousPosition: THREE.Vector3,
+  ) => void
 }
 
 function disposeObject(object: THREE.Object3D) {
@@ -112,7 +123,14 @@ export function buildRelationGraph(graph: GraphData): RelationGraphHandle {
   const nodesByCode = new Map<string, CountryNodeObjects>()
   const countryMeshes: THREE.Mesh[] = []
   const relationLines: RelationLineObjects[] = []
+  const neighborsByCode = new Map<string, string[]>()
   const hubOrigin = new THREE.Vector3(0, 0, 0)
+
+  const addNeighbor = (a: string, b: string) => {
+    const list = neighborsByCode.get(a) ?? []
+    if (!list.includes(b)) list.push(b)
+    neighborsByCode.set(a, list)
+  }
 
   const hub = new THREE.Mesh(
     new THREE.SphereGeometry(0.35, 24, 24),
@@ -198,6 +216,18 @@ export function buildRelationGraph(graph: GraphData): RelationGraphHandle {
     }
     group.add(line)
     relationLines.push({ line, from: relation.from, to: relation.to })
+    addNeighbor(relation.from, relation.to)
+    addNeighbor(relation.to, relation.from)
+  }
+
+  const refreshLinesFor = (codes: Set<string>) => {
+    for (const relation of relationLines) {
+      if (!codes.has(relation.from) && !codes.has(relation.to)) continue
+      const fromPos = nodesByCode.get(relation.from)?.mesh.position
+      const toPos = nodesByCode.get(relation.to)?.mesh.position
+      if (!fromPos || !toPos) continue
+      setLineEndpoints(relation.line, fromPos, toPos)
+    }
   }
 
   const moveCountry = (code: string, position: THREE.Vector3) => {
@@ -207,14 +237,32 @@ export function buildRelationGraph(graph: GraphData): RelationGraphHandle {
     node.mesh.position.copy(position)
     node.label.position.set(position.x, position.y + node.radius + 0.9, position.z)
     setLineEndpoints(node.hubLine, hubOrigin, position)
+    refreshLinesFor(new Set([code]))
+  }
 
-    for (const relation of relationLines) {
-      if (relation.from !== code && relation.to !== code) continue
-      const fromPos = nodesByCode.get(relation.from)?.mesh.position
-      const toPos = nodesByCode.get(relation.to)?.mesh.position
-      if (!fromPos || !toPos) continue
-      setLineEndpoints(relation.line, fromPos, toPos)
+  const moveCountryCluster = (
+    code: string,
+    position: THREE.Vector3,
+    previousPosition: THREE.Vector3,
+  ) => {
+    const delta = position.clone().sub(previousPosition)
+    if (delta.lengthSq() === 0) return
+
+    const neighbors = neighborsByCode.get(code) ?? []
+    const movedCodes = new Set<string>([code, ...neighbors])
+
+    moveCountry(code, position)
+
+    for (const neighborCode of neighbors) {
+      const neighbor = nodesByCode.get(neighborCode)
+      if (!neighbor) continue
+      const next = neighbor.mesh.position.clone().add(delta)
+      neighbor.mesh.position.copy(next)
+      neighbor.label.position.set(next.x, next.y + neighbor.radius + 0.9, next.z)
+      setLineEndpoints(neighbor.hubLine, hubOrigin, next)
     }
+
+    refreshLinesFor(movedCodes)
   }
 
   return {
@@ -222,7 +270,9 @@ export function buildRelationGraph(graph: GraphData): RelationGraphHandle {
     countryMeshes,
     nodesByCode,
     relationLines,
+    neighborsByCode,
     moveCountry,
+    moveCountryCluster,
   }
 }
 
